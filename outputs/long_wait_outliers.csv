@@ -1,0 +1,42 @@
+Appointment_ID,Patient_ID,Appointment_Date,Department,Appointment_Type,Time_Slot,SMS_Reminder,Attendance_Status,Waiting_Time_Min,Consultation_Fee,Waiting_Time_Clean
+APT00535,PAT0982,2026-03-02,Pediatrics,Follow-up,Afternoon,Yes,Attended,158.0,360,158.0
+APT00370,PAT1080,2026-01-09,General Medicine,New,Afternoon,Yes,Attended,152.0,600,152.0
+APT00050,PAT0621,2026-03-27,Ophthalmology,New,Afternoon,Yes,Attended,151.0,750,151.0
+APT00702,PAT0975,2026-02-13,Cardiology,Follow-up,Afternoon,Yes,Attended,146.0,820,146.0
+APT00529,PAT0070,2026-01-02,General Medicine,Follow-up,Morning,No,Attended,143.0,300,143.0
+APT01064,PAT0811,2026-01-07,General Medicine,New,Afternoon,Yes,Attended,143.0,550,143.0
+APT01316,PAT0194,2026-03-13,ENT,Follow-up,Morning,Yes,Attended,139.0,440,139.0
+APT01320,PAT0212,2026-03-24,Pediatrics,Follow-up,Morning,Yes,Attended,135.0,360,135.0
+APT01048,PAT0810,2026-03-10,General Medicine,New,Afternoon,Yes,Attended,134.0,500,134.0
+APT01002,PAT0485,2026-03-30,General Medicine,New,Morning,Yes,Attended,131.0,500,131.0
+APT00023,PAT0716,2026-01-02,General Medicine,Follow-up,Morning,Yes,Attended,131.0,400,131.0
+APT01236,PAT0036,2026-02-19,General Medicine,Follow-up,Morning,Yes,Attended,131.0,300,131.0
+APT00802,PAT0841,2026-02-11,Cardiology,Follow-up,Morning,No,Attended,127.0,820,127.0
+APT00616,PAT0647,2026-01-27,General Medicine,Follow-up,Afternoon,Yes,Attended,125.0,300,125.0
+APT01427,PAT0313,2026-03-18,Pediatrics,New,Evening,No,Attended,123.0,550,123.0
+APT00239,PAT0825,2026-01-15,Pediatrics,Follow-up,Morning,No,Attended,117.0,360,117.0
+APT00142,PAT0020,2026-01-01,Gynecology,New,Afternoon,Yes,Attended,116.0,800,116.0
+APT00311,PAT0289,2026-02-13,Gynecology,Follow-up,Morning,Yes,Attended,100.0,460,100.0
+APT00047,PAT0783,2026-01-22,Ophthalmology,New,Afternoon,Yes,Attended,99.0,850,99.0
+APT00356,PAT0974,2026-02-24,General Medicine,Follow-up,Afternoon,Yes,Attended,99.0,250,99.0
+APT00603,PAT0713,2026-03-13,Orthopedics,New,Morning,No,Attended,98.0,1000,98.0
+APT01276,PAT0095,2026-03-31,Pediatrics,New,Afternoon,No,Attended,95.0,600,95.0
+APT01008,PAT0607,2026-01-19,Orthopedics,New,Afternoon,No,Attended,76.0,950,76.0
+APT00656,PAT0653,2026-02-10,Orthopedics,New,Afternoon,No,Attended,76.0,1000,76.0
+APT00737,PAT0041,2026-03-03,Orthopedics,New,Morning,Yes,Attended,73.0,900,73.0
+APT00721,PAT0467,2026-03-11,Cardiology,New,Evening,No,Attended,72.0,1150,72.0
+APT00032,PAT0277,2026-02-16,Cardiology,New,Morning,Yes,Attended,67.0,1200,67.0
+APT00067,PAT0560,2026-01-06,Cardiology,New,Morning,Yes,Attended,66.0,1250,66.0
+APT00630,PAT0336,2026-03-30,Cardiology,New,Afternoon,Yes,Attended,63.0,1250,63.0
+APT01293,PAT0299,2026-01-28,Cardiology,New,Morning,No,Attended,63.0,1150,63.0
+APT00066,PAT1044,2026-01-26,Cardiology,New,Afternoon,Yes,Attended,62.0,1300,62.0
+APT00980,PAT0195,2026-02-23,Cardiology,New,Morning,Yes,Attended,62.0,1200,62.0
+APT01151,PAT1084,2026-01-07,Cardiology,New,Morning,No,Attended,61.0,1300,61.0
+APT01496,PAT0881,2026-03-16,Cardiology,New,Afternoon,No,Attended,60.0,1250,60.0
+APT00920,PAT0033,2026-01-12,Gynecology,New,Afternoon,Yes,Attended,60.0,850,60.0
+APT01238,PAT0641,2026-01-12,Orthopedics,New,Afternoon,Yes,Attended,60.0,900,60.0
+APT00365,PAT0549,2026-02-02,Cardiology,New,Afternoon,Yes,Attended,60.0,1250,60.0
+APT01352,PAT0869,2026-02-03,Cardiology,Follow-up,Afternoon,Yes,Attended,60.0,770,60.0
+APT01145,PAT0307,2026-03-25,Cardiology,Follow-up,Morning,No,Attended,59.0,670,59.0
+APT00891,PAT0689,2026-03-30,Cardiology,New,Evening,Yes,Attended,59.0,1200,59.0
+APT01127,PAT0566,2026-03-25,Cardiology,Follow-up,Afternoon,No,Attended,59.0,720,59.0

@@ -1,0 +1,1513 @@
+Appointment_ID,Patient_ID,Appointment_Date,Department,Appointment_Type,Time_Slot,SMS_Reminder,Attendance_Status,Waiting_Time_Min,Consultation_Fee
+APT00573,PAT0793,2026-02-04,Gynecology,Follow-up,Afternoon,No,Attended,24.0,560
+APT00984,PAT0427,2026-03-16,Orthopedics,New,Evening,Yes,Attended,55.0,900
+APT00783,PAT0930,2026-03-09,Dermatology,Follow-up,Morning,No,Attended,24.0,420
+APT00537,PAT0859,2026-03-09,General Medicine,Follow-up,Evening,Yes,Attended,21.0,400
+APT01145,PAT0307,2026-03-25,Cardiology,Follow-up,Morning,No,Attended,59.0,670
+APT00310,PAT0144,2026-01-08,Dermatology,Follow-up,Evening,No,Attended,12.0,420
+APT01368,PAT0923,2026-03-27,Cardiology,Follow-up,Morning,Yes,Attended,8.0,720
+APT00249,PAT0338,2026-03-20,Ophthalmology,Follow-up,Afternoon,Yes,Attended,18.0,450
+APT00182,PAT0768,2026-03-06,Gynecology,Follow-up,Morning,Yes,Attended,,510
+APT00092,PAT0842,2026-01-06,Dermatology,New,Morning,No,No-Show,,800
+APT00932,PAT0835,2026-03-25,Ophthalmology,New,Morning,Yes,No-Show,,750
+APT01409,PAT0074,2026-02-02,Orthopedics,Follow-up,Morning,Yes,Attended,30.0,640
+APT00980,PAT0195,2026-02-23,Cardiology,New,Morning,Yes,Attended,62.0,1200
+APT00572,PAT0902,2026-03-12,General Medicine,New,Evening,Yes,Attended,17.0,500
+APT00383,PAT0278,2026-01-16,General Medicine,New,Afternoon,Yes,Attended,22.0,600
+APT00326,PAT0373,2026-01-30,Orthopedics,Follow-up,Afternoon,Yes,Attended,37.0,540
+APT01261,PAT0685,2026-01-09,General Medicine,New,Morning,Yes,Attended,30.0,450
+APT00410,PAT0800,2026-03-27,General Medicine,Follow-up,Afternoon,No,Attended,24.0,300
+APT01283,PAT0756,2026-03-20,Orthopedics,New,Afternoon,No,Attended,46.0,1000
+APT01253,PAT0445,2026-02-03,Gynecology,Follow-up,Evening,Yes,Attended,26.0,510
+APT01099,PAT0260,2026-03-17,Gynecology,New,Afternoon,Yes,Attended,33.0,900
+APT00654,PAT0195,2026-01-07,ENT,New,Morning,Yes,Attended,22.0,650
+APT00941,PAT0317,2026-03-03,General Medicine,New,Morning,No,No-Show,,550
+APT00910,PAT0550,2026-03-27,Orthopedics,New,Afternoon,No,No-Show,,850
+APT00608,PAT0061,2026-02-25,Orthopedics,New,Afternoon,Yes,Cancelled,,850
+APT00120,PAT0416,2026-01-29,Ophthalmology,Follow-up,Morning,Yes,Attended,32.0,450
+APT00767,PAT0737,2026-02-10,Dermatology,Follow-up,Afternoon,Yes,Attended,8.0,420
+APT01132,PAT0025,2026-01-26,Gynecology,Follow-up,Morning,Yes,Cancelled,,460
+APT00893,PAT0833,2026-02-04,Cardiology,Follow-up,Evening,Yes,Attended,39.0,720
+APT00985,PAT0497,2026-01-12,General Medicine,New,Morning,Yes,Attended,34.0,500
+APT01113,PAT0155,2026-03-09,General Medicine,Follow-up,Morning,Yes,Attended,19.0,400
+APT01184,PAT0902,2026-01-06,Cardiology,Follow-up,Morning,Yes,Attended,12.0,720
+APT00336,PAT0781,2026-01-22,Orthopedics,Follow-up,Morning,Yes,Attended,2.0,540
+APT00061,PAT0917,2026-03-12,Ophthalmology,Follow-up,Afternoon,Yes,Attended,18.0,550
+APT00202,PAT0763,2026-02-13,Dermatology,Follow-up,Afternoon,Yes,Attended,23.0,420
+APT00651,PAT0072,2026-02-24,General Medicine,New,Morning,No,Attended,18.0,500
+APT01466,PAT0133,2026-01-20,Pediatrics,New,Afternoon,Yes,Attended,35.0,600
+APT00076,PAT0043,2026-01-02,Ophthalmology,Follow-up,Morning,Yes,Attended,19.0,450
+APT01041,PAT0223,2026-01-29,General Medicine,New,Morning,Yes,Attended,28.0,450
+APT00289,PAT0364,2026-03-10,General Medicine,Follow-up,Afternoon,Yes,Attended,13.0,350
+APT00112,PAT0525,2026-01-21,Orthopedics,Follow-up,Afternoon,Yes,Attended,34.0,590
+APT01107,PAT0746,2026-01-07,ENT,Follow-up,Morning,Yes,Attended,9.0,490
+APT00463,PAT0809,2026-02-11,General Medicine,New,Afternoon,Yes,Attended,8.0,600
+APT00575,PAT0672,2026-03-30,Ophthalmology,New,Afternoon,Yes,Attended,25.0,800
+APT00772,PAT0703,2026-03-26,Ophthalmology,Follow-up,Afternoon,No,Attended,18.0,550
+APT01173,PAT0626,2026-03-12,Cardiology,Follow-up,Afternoon,Yes,Attended,35.0,670
+APT01131,PAT0317,2026-02-17,Dermatology,New,Morning,No,No-Show,,700
+APT00103,PAT0477,2026-02-05,General Medicine,Follow-up,Afternoon,Yes,Attended,17.0,300
+APT01005,PAT0339,2026-02-16,Ophthalmology,New,Evening,Yes,No-Show,,850
+APT00332,PAT0736,2026-01-13,General Medicine,Follow-up,Morning,Yes,Attended,28.0,350
+APT00265,PAT0887,2026-03-12,Dermatology,Follow-up,Afternoon,Yes,Attended,14.0,420
+APT01163,PAT0646,2026-02-17,Ophthalmology,New,Afternoon,No,No-Show,,800
+APT00998,PAT0481,2026-02-19,Pediatrics,New,Morning,No,Cancelled,,700
+APT00433,PAT0860,2026-01-29,Dermatology,New,Afternoon,No,No-Show,,650
+APT01007,PAT0900,2026-01-28,Ophthalmology,Follow-up,Morning,No,Attended,27.0,500
+APT00578,PAT0049,2026-01-30,ENT,New,Evening,Yes,Attended,25.0,650
+APT00397,PAT0365,2026-02-03,ENT,Follow-up,Morning,Yes,No-Show,,390
+APT01384,PAT0001,2026-01-28,Cardiology,New,Morning,Yes,Attended,19.0,1200
+APT01269,PAT0666,2026-03-04,General Medicine,New,Afternoon,No,Attended,30.0,500
+APT00977,PAT0740,2026-02-13,Cardiology,New,Evening,Yes,Attended,39.0,1300
+APT00820,PAT0416,2026-01-13,Orthopedics,Follow-up,Evening,Yes,Attended,24.0,490
+APT00038,PAT0380,2026-02-04,Orthopedics,New,Morning,Yes,Attended,30.0,900
+APT00168,PAT0094,2026-03-18,Ophthalmology,New,Morning,Yes,Attended,9.0,750
+APT01014,PAT0624,2026-02-18,Orthopedics,New,Morning,No,Attended,54.0,900
+APT00415,PAT0482,2026-02-18,General Medicine,Follow-up,Afternoon,No,No-Show,,300
+APT00286,PAT0664,2026-01-05,Dermatology,Follow-up,Evening,Yes,Attended,18.0,470
+APT00580,PAT0413,2026-03-23,Orthopedics,New,Afternoon,Yes,Attended,48.0,950
+APT00170,PAT0560,2026-03-27,General Medicine,New,Afternoon,Yes,Cancelled,,550
+APT00952,PAT0095,2026-03-25,Orthopedics,Follow-up,Morning,Yes,No-Show,,540
+APT00054,PAT0099,2026-03-03,Cardiology,New,Evening,No,No-Show,,1300
+APT00562,PAT0988,2026-03-12,Gynecology,Follow-up,Evening,No,Attended,7.0,510
+APT00599,PAT0374,2026-01-06,Ophthalmology,Follow-up,Afternoon,Yes,Attended,28.0,500
+APT00852,PAT0411,2026-03-23,Pediatrics,Follow-up,Afternoon,No,Attended,22.0,310
+APT01044,PAT0434,2026-02-04,Dermatology,Follow-up,Morning,Yes,No-Show,,520
+APT00108,PAT0159,2026-02-19,Orthopedics,New,Afternoon,No,Attended,44.0,900
+APT00260,PAT0376,2026-02-06,Orthopedics,Follow-up,Morning,Yes,Attended,58.0,640
+APT00404,PAT0180,2026-03-10,Dermatology,New,Morning,Yes,Attended,22.0,700
+APT00826,PAT0810,2026-03-13,General Medicine,Follow-up,Morning,Yes,Attended,20.0,300
+APT00302,PAT0443,2026-01-01,Cardiology,New,Afternoon,Yes,Attended,53.0,1250
+APT00205,PAT0450,2026-03-13,Orthopedics,Follow-up,Morning,No,Attended,38.0,540
+APT01039,PAT1080,2026-03-10,General Medicine,Follow-up,Morning,No,Attended,26.0,400
+APT00633,PAT0122,2026-03-16,Ophthalmology,New,Afternoon,Yes,Attended,25.0,800
+APT00894,PAT0339,2026-03-04,Dermatology,Follow-up,Morning,No,No-Show,,370
+APT01241,PAT0623,2026-03-26,ENT,New,Evening,No,Attended,24.0,700
+APT00831,PAT1044,2026-03-16,General Medicine,Follow-up,Evening,Yes,Cancelled,,300
+APT00603,PAT0713,2026-03-13,Orthopedics,New,Morning,No,Attended,98.0,1000
+APT00102,PAT0753,2026-01-26,ENT,Follow-up,Morning,No,Attended,28.0,390
+APT00834,PAT0529,2026-01-16,Orthopedics,Follow-up,Afternoon,Yes,No-Show,,540
+APT01245,PAT1020,2026-03-30,ENT,Follow-up,Morning,No,Attended,,440
+APT00875,PAT0427,2026-03-11,General Medicine,Follow-up,Evening,No,Attended,9.0,400
+APT00709,PAT0586,2026-02-03,General Medicine,New,Morning,No,Attended,14.0,500
+APT00496,PAT0124,2026-02-12,Dermatology,Follow-up,Evening,No,Attended,12.0,420
+APT01024,PAT0695,2026-01-14,Ophthalmology,Follow-up,Afternoon,Yes,No-Show,,450
+APT01482,PAT0819,2026-03-26,General Medicine,Follow-up,Morning,Yes,Attended,25.0,300
+APT01413,PAT0410,2026-01-19,Pediatrics,New,Morning,Yes,Attended,23.0,650
+APT01400,PAT0319,2026-01-19,Gynecology,Follow-up,Morning,No,Attended,17.0,510
+APT00360,PAT1082,2026-01-15,General Medicine,New,Afternoon,Yes,Attended,31.0,500
+APT01471,PAT0138,2026-03-04,Dermatology,New,Morning,No,Attended,15.0,650
+APT01364,PAT0899,2026-02-11,Gynecology,Follow-up,Afternoon,Yes,Attended,33.0,560
+APT00609,PAT0698,2026-03-13,Pediatrics,New,Afternoon,Yes,Attended,15.0,550
+APT01128,PAT0076,2026-02-17,Cardiology,New,Afternoon,No,Cancelled,,1250
+APT00256,PAT0971,2026-01-05,Dermatology,New,Morning,Yes,Attended,10.0,700
+APT00953,PAT0041,2026-02-20,Pediatrics,New,Afternoon,No,No-Show,,650
+APT00191,PAT0578,2026-02-24,Pediatrics,Follow-up,Afternoon,Yes,Attended,29.0,460
+APT00539,PAT0974,2026-02-10,General Medicine,Follow-up,Morning,No,Attended,29.0,300
+APT01204,PAT0905,2026-02-27,ENT,New,Afternoon,Yes,Attended,32.0,650
+APT00530,PAT0385,2026-02-05,Orthopedics,New,Morning,Yes,Cancelled,,900
+APT00635,PAT0685,2026-03-23,Dermatology,New,Evening,Yes,Attended,8.0,650
+APT00597,PAT0792,2026-01-07,Pediatrics,Follow-up,Afternoon,Yes,No-Show,,310
+APT00212,PAT1083,2026-02-24,Cardiology,Follow-up,Morning,Yes,Attended,28.0,820
+APT00331,PAT0575,2026-02-16,ENT,New,Afternoon,Yes,Attended,33.0,700
+APT01180,PAT0368,2026-01-15,General Medicine,Follow-up,Evening,Yes,Attended,18.0,300
+APT00641,PAT0449,2026-03-27,General Medicine,New,Morning,No,No-Show,,500
+APT00232,PAT0985,2026-02-09,ENT,Follow-up,Afternoon,Yes,No-Show,,390
+APT00049,PAT0735,2026-03-27,Dermatology,New,Morning,Yes,Attended,10.0,700
+APT01221,PAT0195,2026-01-13,General Medicine,New,Morning,No,Attended,16.0,550
+APT01193,PAT0619,2026-02-10,ENT,New,Afternoon,No,Attended,38.0,600
+APT01430,PAT0834,2026-02-12,Cardiology,New,Evening,Yes,Attended,19.0,1250
+APT00805,PAT0691,2026-03-27,General Medicine,Follow-up,Morning,No,Attended,26.0,400
+APT00708,PAT0620,2026-01-22,Dermatology,Follow-up,Morning,Yes,No-Show,,370
+APT00869,PAT1034,2026-01-09,Cardiology,New,Morning,Yes,Attended,44.0,1200
+APT00495,PAT0208,2026-03-16,ENT,Follow-up,Morning,Yes,Attended,12.0,390
+APT01226,PAT0413,2026-01-30,Ophthalmology,Follow-up,Morning,No,Attended,24.0,450
+APT00958,PAT0542,2026-03-20,General Medicine,Follow-up,Morning,Yes,Attended,30.0,300
+APT00698,PAT0672,2026-01-14,Gynecology,Follow-up,Afternoon,Yes,Attended,34.0,560
+APT00303,PAT0837,2026-01-27,Ophthalmology,Follow-up,Afternoon,No,Attended,24.0,550
+APT01295,PAT0297,2026-01-06,Gynecology,Follow-up,Afternoon,Yes,Attended,10.0,510
+APT00081,PAT0584,2026-01-09,General Medicine,New,Morning,Yes,Attended,20.0,550
+APT00644,PAT0461,2026-02-04,Cardiology,Follow-up,Morning,Yes,Attended,31.0,720
+APT00938,PAT0473,2026-03-16,Orthopedics,New,Morning,Yes,Attended,14.0,900
+APT00963,PAT0912,2026-01-20,ENT,New,Morning,Yes,Cancelled,,700
+APT00632,PAT0147,2026-01-16,Orthopedics,Follow-up,Morning,No,Attended,40.0,640
+APT01220,PAT0139,2026-02-06,General Medicine,New,Morning,No,No-Show,,500
+APT00419,PAT0659,2026-03-31,General Medicine,Follow-up,Morning,Yes,Attended,21.0,350
+APT00284,PAT0196,2026-02-24,General Medicine,New,Evening,No,Attended,30.0,500
+APT01487,PAT0691,2026-01-21,Gynecology,Follow-up,Afternoon,No,Attended,24.0,460
+APT00422,PAT0783,2026-01-02,Ophthalmology,New,Evening,Yes,Attended,44.0,750
+APT01234,PAT1075,2026-01-23,Orthopedics,Follow-up,Afternoon,Yes,Attended,17.0,640
+APT00492,PAT0073,2026-02-10,ENT,New,Morning,Yes,Attended,20.0,750
+APT00237,PAT0558,2026-02-11,Dermatology,Follow-up,Morning,Yes,Attended,8.0,420
+APT00020,PAT0757,2026-01-05,Gynecology,Follow-up,Morning,Yes,Attended,19.0,610
+APT01101,PAT0796,2026-03-24,Pediatrics,New,Evening,Yes,Attended,19.0,600
+APT01305,PAT0544,2026-02-17,Gynecology,New,Morning,No,Attended,31.0,850
+APT00615,PAT0558,2026-02-11,ENT,Follow-up,Morning,No,No-Show,,390
+APT00293,PAT0537,2026-03-10,Pediatrics,Follow-up,Morning,No,Attended,13.0,360
+APT00991,PAT0259,2026-03-23,Gynecology,New,Afternoon,No,Attended,29.0,850
+APT00259,PAT0057,2026-01-12,Pediatrics,Follow-up,Afternoon,Yes,Attended,16.0,460
+APT00004,PAT1095,2026-01-21,Pediatrics,Follow-up,Afternoon,Yes,Attended,29.0,360
+APT01109,PAT0325,2026-02-11,Gynecology,Follow-up,Evening,No,Attended,30.0,560
+APT00116,PAT0681,2026-03-25,Cardiology,New,Morning,No,No-Show,,1150
+APT00141,PAT0450,2026-02-03,ENT,New,Afternoon,Yes,Attended,27.0,600
+APT00195,PAT0893,2026-01-21,General Medicine,Follow-up,Morning,Yes,Attended,26.0,350
+APT00427,PAT0468,2026-02-26,ENT,New,Afternoon,Yes,No-Show,,600
+APT00781,PAT0456,2026-03-10,Pediatrics,New,Morning,No,No-Show,,600
+APT01254,PAT0966,2026-01-02,Pediatrics,New,Morning,Yes,No-Show,,550
+APT00862,PAT0344,2026-01-13,Dermatology,New,Morning,Yes,Cancelled,,700
+APT00521,PAT0187,2026-02-13,Dermatology,New,Afternoon,No,Attended,34.0,800
+APT00050,PAT0621,2026-03-27,Ophthalmology,New,Afternoon,Yes,Attended,151.0,750
+APT01159,PAT0592,2026-03-25,Pediatrics,New,Afternoon,Yes,Cancelled,,550
+APT00680,PAT0566,2026-02-05,Gynecology,New,Afternoon,No,No-Show,,800
+APT00895,PAT0387,2026-01-06,General Medicine,New,Afternoon,No,No-Show,,500
+APT00882,PAT0273,2026-02-23,Pediatrics,Follow-up,Morning,No,Cancelled,,410
+APT00105,PAT0666,2026-02-17,General Medicine,Follow-up,Afternoon,Yes,Attended,30.0,250
+APT01174,PAT0064,2026-03-06,Pediatrics,New,Evening,Yes,Attended,29.0,550
+APT01396,PAT0762,2026-03-27,Gynecology,New,Evening,Yes,Attended,40.0,850
+APT00725,PAT0989,2026-02-16,Pediatrics,New,Afternoon,Yes,Attended,25.0,550
+APT00594,PAT0139,2026-03-25,ENT,Follow-up,Afternoon,Yes,Attended,10.0,440
+APT01390,PAT1045,2026-01-01,Gynecology,New,Evening,Yes,Attended,28.0,950
+APT01243,PAT0356,2026-01-21,Cardiology,Follow-up,Morning,Yes,Attended,29.0,770
+APT00901,PAT0623,2026-03-26,General Medicine,Follow-up,Morning,Yes,Attended,27.0,300
+APT01229,PAT0235,2026-02-11,Gynecology,Follow-up,Morning,Yes,Attended,36.0,560
+APT00532,PAT0198,2026-02-25,Dermatology,Follow-up,Afternoon,Yes,Attended,10.0,370
+APT01260,PAT0497,2026-03-12,Orthopedics,New,Morning,No,Attended,8.0,900
+APT01018,PAT0019,2026-03-12,Orthopedics,Follow-up,Morning,Yes,Attended,21.0,490
+APT00315,PAT0943,2026-01-15,Orthopedics,New,Evening,No,Attended,,850
+APT01431,PAT0858,2026-03-10,Pediatrics,Follow-up,Morning,No,Attended,19.0,310
+APT00497,PAT1034,2026-02-18,General Medicine,Follow-up,Morning,No,Attended,26.0,250
+APT00052,PAT0909,2026-03-27,General Medicine,Follow-up,Evening,Yes,Attended,17.0,350
+APT01335,PAT0740,2026-01-06,Cardiology,New,Morning,No,Attended,37.0,1150
+APT01224,PAT0561,2026-03-06,Cardiology,Follow-up,Afternoon,No,Cancelled,,670
+APT00322,PAT0497,2026-01-07,General Medicine,Follow-up,Afternoon,Yes,Attended,21.0,300
+APT00109,PAT0681,2026-01-20,Cardiology,Follow-up,Morning,No,Attended,15.0,720
+APT00402,PAT0789,2026-03-13,Gynecology,New,Morning,No,Attended,30.0,800
+APT01252,PAT0029,2026-01-20,Pediatrics,Follow-up,Morning,Yes,Attended,17.0,460
+APT00443,PAT0492,2026-02-16,Pediatrics,New,Morning,No,No-Show,,650
+APT00465,PAT0271,2026-02-09,Dermatology,New,Afternoon,No,Attended,2.0,650
+APT00031,PAT0769,2026-01-29,Dermatology,New,Morning,No,Attended,22.0,650
+APT00931,PAT0067,2026-03-30,Pediatrics,New,Morning,Yes,Attended,20.0,600
+APT00224,PAT0746,2026-02-09,General Medicine,Follow-up,Afternoon,No,Attended,17.0,400
+APT00829,PAT0993,2026-03-06,Cardiology,New,Evening,Yes,Attended,35.0,1150
+APT01388,PAT0175,2026-01-16,ENT,New,Morning,Yes,Attended,21.0,600
+APT00401,PAT0803,2026-02-03,Dermatology,New,Morning,No,No-Show,,800
+APT01212,PAT0705,2026-01-16,Orthopedics,New,Morning,No,No-Show,,850
+APT00827,PAT0997,2026-01-27,General Medicine,Follow-up,Morning,Yes,Attended,34.0,250
+APT01383,PAT1036,2026-01-27,Cardiology,Follow-up,Morning,No,Cancelled,,720
+APT00447,PAT1005,2026-03-12,Ophthalmology,Follow-up,Morning,Yes,Attended,22.0,550
+APT00681,PAT0766,2026-03-09,Orthopedics,Follow-up,Afternoon,Yes,Attended,25.0,640
+APT01469,PAT0265,2026-01-06,Gynecology,Follow-up,Morning,Yes,Attended,15.0,510
+APT00178,PAT0381,2026-02-18,Cardiology,Follow-up,Afternoon,Yes,Cancelled,,770
+APT01155,PAT0845,2026-03-19,ENT,Follow-up,Evening,Yes,No-Show,,490
+APT01426,PAT0455,2026-02-23,Gynecology,New,Afternoon,No,Attended,28.0,950
+APT01083,PAT0675,2026-01-19,Cardiology,New,Afternoon,Yes,Attended,48.0,1150
+APT00089,PAT0789,2026-02-19,Cardiology,New,Evening,No,No-Show,,1200
+APT00548,PAT0938,2026-03-25,General Medicine,Follow-up,Morning,No,No-Show,,300
+APT01484,PAT0132,2026-02-16,Gynecology,Follow-up,Morning,Yes,Attended,,610
+APT00936,PAT0957,2026-02-16,Gynecology,Follow-up,Morning,No,Attended,19.0,610
+APT00907,PAT0747,2026-02-05,Cardiology,Follow-up,Afternoon,No,Attended,42.0,820
+APT00387,PAT0875,2026-03-24,Gynecology,Follow-up,Afternoon,Yes,Attended,26.0,510
+APT01470,PAT0093,2026-02-04,General Medicine,New,Morning,Yes,No-Show,,500
+APT01318,PAT0855,2026-03-31,Pediatrics,Follow-up,Morning,Yes,No-Show,,310
+APT00479,PAT0681,2026-01-23,Ophthalmology,New,Morning,Yes,Attended,26.0,750
+APT00695,PAT0052,2026-02-17,Gynecology,Follow-up,Morning,No,No-Show,,510
+APT00900,PAT0885,2026-01-27,Dermatology,Follow-up,Morning,No,Attended,19.0,420
+APT00488,PAT0761,2026-03-25,Orthopedics,Follow-up,Afternoon,Yes,Attended,25.0,540
+APT00650,PAT0364,2026-03-26,Dermatology,New,Morning,Yes,Attended,25.0,700
+APT01490,PAT0582,2026-01-23,General Medicine,Follow-up,Morning,No,Cancelled,,400
+APT00453,PAT0770,2026-02-23,General Medicine,New,Morning,Yes,Attended,23.0,500
+APT01444,PAT1020,2026-02-18,Cardiology,New,Evening,No,Attended,31.0,1250
+APT00300,PAT1038,2026-02-13,General Medicine,New,Morning,Yes,Attended,32.0,500
+APT00159,PAT0291,2026-02-26,Pediatrics,Follow-up,Afternoon,Yes,Attended,27.0,360
+APT00425,PAT0585,2026-01-22,Dermatology,Follow-up,Evening,No,Attended,15.0,420
+APT00988,PAT0330,2026-02-19,General Medicine,Follow-up,Morning,No,Attended,20.0,400
+APT00491,PAT0365,2026-02-03,Gynecology,New,Afternoon,No,Attended,15.0,900
+APT01008,PAT0607,2026-01-19,Orthopedics,New,Afternoon,No,Attended,76.0,950
+APT01435,PAT0950,2026-03-03,Dermatology,Follow-up,Afternoon,No,No-Show,,420
+APT01148,PAT0298,2026-02-27,General Medicine,Follow-up,Morning,Yes,Attended,27.0,300
+APT01164,PAT0732,2026-01-08,Pediatrics,New,Morning,Yes,Attended,,550
+APT00780,PAT0965,2026-02-18,Cardiology,Follow-up,Morning,Yes,Attended,58.0,720
+APT01467,PAT0443,2026-02-05,Gynecology,New,Morning,Yes,Attended,29.0,850
+APT00095,PAT1092,2026-01-08,General Medicine,Follow-up,Morning,No,Attended,,250
+APT00528,PAT0459,2026-02-27,Ophthalmology,New,Morning,Yes,Attended,10.0,700
+APT00832,PAT0490,2026-01-07,Orthopedics,Follow-up,Morning,No,Attended,36.0,490
+APT01058,PAT1042,2026-03-18,General Medicine,New,Evening,Yes,No-Show,,550
+APT00373,PAT0393,2026-02-05,Gynecology,Follow-up,Afternoon,No,No-Show,,610
+APT00559,PAT0025,2026-01-22,Pediatrics,Follow-up,Afternoon,No,Attended,17.0,460
+APT00637,PAT0375,2026-01-01,ENT,Follow-up,Evening,Yes,Cancelled,,390
+APT00271,PAT0642,2026-03-17,Dermatology,Follow-up,Morning,No,Attended,8.0,370
+APT00614,PAT0237,2026-02-27,Dermatology,Follow-up,Afternoon,Yes,Attended,14.0,520
+APT00987,PAT0486,2026-02-09,Orthopedics,New,Afternoon,No,Attended,20.0,900
+APT00066,PAT1044,2026-01-26,Cardiology,New,Afternoon,Yes,Attended,62.0,1300
+APT00269,PAT0041,2026-01-21,Ophthalmology,Follow-up,Morning,Yes,Attended,15.0,400
+APT00665,PAT0242,2026-03-20,Cardiology,New,Morning,Yes,Attended,23.0,1200
+APT00956,PAT0728,2026-01-27,General Medicine,Follow-up,Morning,No,Attended,34.0,300
+APT00755,PAT1055,2026-02-05,Orthopedics,Follow-up,Morning,Yes,Attended,34.0,640
+APT00268,PAT0122,2026-02-03,Cardiology,Follow-up,Evening,No,Cancelled,,720
+APT01056,PAT0345,2026-01-29,ENT,New,Afternoon,Yes,Attended,21.0,600
+APT01143,PAT0898,2026-02-03,ENT,Follow-up,Afternoon,No,Attended,15.0,340
+APT01179,PAT0975,2026-02-12,Dermatology,Follow-up,Afternoon,Yes,Cancelled,,520
+APT00720,PAT1091,2026-01-16,ENT,Follow-up,Evening,No,No-Show,,440
+APT00362,PAT0253,2026-03-20,General Medicine,New,Afternoon,No,Attended,36.0,550
+APT00057,PAT0799,2026-03-31,Ophthalmology,New,Morning,Yes,No-Show,,850
+APT00143,PAT0239,2026-03-03,Gynecology,Follow-up,Afternoon,No,Attended,25.0,610
+APT00454,PAT0433,2026-02-23,Pediatrics,New,Evening,Yes,Cancelled,,600
+APT01242,PAT0468,2026-03-13,General Medicine,Follow-up,Afternoon,Yes,Attended,29.0,300
+APT00554,PAT0060,2026-01-28,Cardiology,Follow-up,Afternoon,No,Attended,25.0,770
+APT00427,PAT0468,2026-02-26,ENT,New,Afternoon,Yes,No-Show,,600
+APT00859,PAT1055,2026-01-26,General Medicine,Follow-up,Evening,Yes,Attended,26.0,300
+APT01274,PAT0208,2026-03-12,General Medicine,New,Afternoon,Yes,Attended,2.0,550
+APT00199,PAT0152,2026-01-19,Gynecology,New,Morning,Yes,Attended,41.0,950
+APT00160,PAT1077,2026-02-09,Pediatrics,Follow-up,Morning,Yes,Attended,6.0,360
+APT00228,PAT0249,2026-03-27,General Medicine,Follow-up,Afternoon,No,No-Show,,400
+APT00376,PAT0092,2026-03-13,Cardiology,Follow-up,Afternoon,No,Attended,27.0,820
+APT01439,PAT0278,2026-03-19,ENT,New,Evening,Yes,Attended,35.0,650
+APT00777,PAT0312,2026-01-13,Pediatrics,Follow-up,Afternoon,No,No-Show,,460
+APT00409,PAT0353,2026-01-28,Gynecology,New,Evening,No,Attended,32.0,850
+APT00867,PAT0980,2026-03-26,Ophthalmology,Follow-up,Afternoon,No,No-Show,,500
+APT00648,PAT0379,2026-01-01,Pediatrics,New,Morning,Yes,Attended,22.0,700
+APT01244,PAT0709,2026-03-06,General Medicine,Follow-up,Afternoon,Yes,Attended,15.0,400
+APT00704,PAT0028,2026-03-19,Cardiology,Follow-up,Afternoon,No,No-Show,,720
+APT00661,PAT0616,2026-01-22,General Medicine,New,Morning,Yes,Attended,28.0,550
+APT00088,PAT0299,2026-01-23,Pediatrics,New,Morning,Yes,Attended,13.0,600
+APT00730,PAT0176,2026-01-16,Orthopedics,Follow-up,Afternoon,Yes,Attended,33.0,640
+APT00436,PAT1075,2026-03-19,Ophthalmology,New,Afternoon,No,No-Show,,800
+APT00924,PAT0722,2026-02-24,ENT,New,Morning,No,Attended,15.0,750
+APT00978,PAT0163,2026-01-22,Ophthalmology,New,Afternoon,No,No-Show,,800
+APT01095,PAT0533,2026-02-05,Ophthalmology,Follow-up,Morning,Yes,Attended,27.0,450
+APT00835,PAT0892,2026-02-04,Ophthalmology,Follow-up,Afternoon,Yes,Attended,20.0,400
+APT01208,PAT0055,2026-01-08,Orthopedics,Follow-up,Afternoon,Yes,Attended,42.0,640
+APT01272,PAT0643,2026-02-23,Cardiology,Follow-up,Morning,Yes,Attended,33.0,770
+APT00121,PAT0694,2026-01-22,Pediatrics,Follow-up,Morning,Yes,Attended,14.0,360
+APT01054,PAT0174,2026-03-30,Pediatrics,New,Morning,No,Attended,9.0,650
+APT00758,PAT0865,2026-03-12,Cardiology,New,Morning,Yes,Attended,47.0,1150
+APT01461,PAT0258,2026-01-29,ENT,New,Evening,Yes,No-Show,,650
+APT01448,PAT0597,2026-03-31,Gynecology,Follow-up,Morning,Yes,Cancelled,,510
+APT00187,PAT0088,2026-02-05,General Medicine,New,Morning,Yes,Attended,15.0,550
+APT00407,PAT0365,2026-02-23,General Medicine,Follow-up,Afternoon,No,Attended,21.0,400
+APT00731,PAT0387,2026-01-05,Gynecology,Follow-up,Morning,No,Attended,14.0,560
+APT00305,PAT0617,2026-01-02,Ophthalmology,New,Afternoon,No,Attended,8.0,750
+APT00816,PAT0815,2026-03-26,Orthopedics,New,Evening,No,Attended,58.0,1000
+APT00134,PAT0138,2026-02-10,General Medicine,Follow-up,Morning,Yes,Attended,33.0,300
+APT00623,PAT0493,2026-03-18,Gynecology,Follow-up,Morning,No,Attended,25.0,510
+APT01281,PAT0190,2026-01-14,General Medicine,New,Morning,Yes,Attended,36.0,500
+APT00082,PAT0432,2026-03-03,Orthopedics,New,Afternoon,Yes,No-Show,,1000
+APT01090,PAT0684,2026-02-17,General Medicine,Follow-up,Morning,Yes,Attended,22.0,350
+APT01273,PAT0255,2026-02-18,Ophthalmology,New,Evening,No,No-Show,,750
+APT00762,PAT0589,2026-03-23,Dermatology,New,Morning,No,Attended,8.0,650
+APT01086,PAT0578,2026-01-01,Dermatology,Follow-up,Morning,No,Attended,13.0,420
+APT00423,PAT0390,2026-03-17,Dermatology,Follow-up,Morning,No,No-Show,,520
+APT01117,PAT0225,2026-01-21,General Medicine,New,Morning,Yes,Attended,21.0,450
+APT01349,PAT0029,2026-02-25,ENT,New,Morning,No,Attended,26.0,750
+APT00621,PAT0383,2026-02-09,Ophthalmology,Follow-up,Morning,Yes,Attended,17.0,450
+APT01492,PAT0784,2026-03-06,General Medicine,Follow-up,Morning,Yes,Attended,10.0,300
+APT00693,PAT0257,2026-01-07,Dermatology,New,Morning,Yes,Attended,12.0,800
+APT01235,PAT0081,2026-02-05,General Medicine,Follow-up,Afternoon,Yes,Attended,16.0,300
+APT00481,PAT0203,2026-02-09,Gynecology,Follow-up,Afternoon,No,Attended,27.0,510
+APT00786,PAT0121,2026-03-10,General Medicine,New,Afternoon,Yes,Attended,36.0,500
+APT00590,PAT0977,2026-02-20,General Medicine,New,Morning,No,Attended,18.0,450
+APT01016,PAT1051,2026-01-08,Pediatrics,New,Evening,Yes,Attended,22.0,550
+APT01449,PAT0651,2026-01-30,Cardiology,Follow-up,Morning,No,No-Show,,720
+APT00013,PAT0700,2026-01-15,Pediatrics,Follow-up,Afternoon,Yes,Attended,14.0,460
+APT00400,PAT0131,2026-02-16,Gynecology,Follow-up,Afternoon,Yes,No-Show,,610
+APT00074,PAT0982,2026-02-05,Orthopedics,New,Morning,No,No-Show,,1000
+APT00973,PAT0415,2026-03-20,Pediatrics,New,Morning,Yes,Attended,10.0,600
+APT01147,PAT0990,2026-03-18,Cardiology,Follow-up,Morning,Yes,Attended,33.0,820
+APT00791,PAT0566,2026-03-27,Dermatology,New,Morning,Yes,No-Show,,700
+APT01022,PAT0552,2026-02-04,ENT,New,Morning,No,Cancelled,,750
+APT00564,PAT0383,2026-01-21,Gynecology,New,Evening,Yes,Attended,37.0,850
+APT00920,PAT0033,2026-01-12,Gynecology,New,Afternoon,Yes,Attended,60.0,850
+APT00482,PAT0325,2026-02-11,General Medicine,Follow-up,Afternoon,Yes,Attended,27.0,300
+APT01214,PAT0600,2026-03-05,Orthopedics,Follow-up,Afternoon,Yes,Attended,30.0,640
+APT01098,PAT1057,2026-03-17,General Medicine,New,Morning,No,No-Show,,500
+APT00164,PAT1028,2026-01-16,Orthopedics,New,Evening,Yes,Attended,52.0,950
+APT00048,PAT0540,2026-01-21,Cardiology,New,Morning,No,Attended,19.0,1300
+APT00613,PAT1001,2026-03-25,Dermatology,Follow-up,Afternoon,Yes,Attended,19.0,520
+APT00099,PAT0145,2026-03-17,Cardiology,Follow-up,Afternoon,Yes,Attended,10.0,720
+APT01420,PAT0959,2026-01-13,Pediatrics,Follow-up,Afternoon,Yes,Attended,30.0,360
+APT00889,PAT0517,2026-03-13,Ophthalmology,Follow-up,Afternoon,No,Cancelled,,400
+APT01219,PAT1062,2026-03-04,Pediatrics,Follow-up,Evening,No,No-Show,,360
+APT01288,PAT0670,2026-03-27,General Medicine,New,Evening,No,No-Show,,500
+APT00281,PAT1075,2026-03-13,General Medicine,Follow-up,Afternoon,Yes,Attended,7.0,300
+APT01454,PAT0429,2026-01-15,General Medicine,Follow-up,Afternoon,Yes,Attended,23.0,350
+APT00312,PAT0014,2026-03-18,Ophthalmology,Follow-up,Morning,No,Attended,25.0,450
+APT00132,PAT0439,2026-03-04,Dermatology,Follow-up,Afternoon,Yes,Attended,22.0,470
+APT00858,PAT0583,2026-01-15,ENT,New,Morning,Yes,Attended,23.0,650
+APT01291,PAT0734,2026-01-23,Gynecology,New,Afternoon,Yes,Attended,37.0,900
+APT00808,PAT0893,2026-02-04,Orthopedics,New,Afternoon,Yes,Attended,52.0,900
+APT01395,PAT0145,2026-02-20,Orthopedics,Follow-up,Morning,Yes,Attended,37.0,490
+APT00794,PAT0200,2026-01-16,Pediatrics,New,Morning,Yes,Attended,33.0,550
+APT00216,PAT0958,2026-02-10,Pediatrics,New,Afternoon,Yes,Attended,21.0,550
+APT00136,PAT0843,2026-03-04,General Medicine,Follow-up,Evening,Yes,Attended,16.0,300
+APT00429,PAT0934,2026-02-16,ENT,New,Morning,No,Attended,38.0,650
+APT00504,PAT0911,2026-02-13,General Medicine,New,Afternoon,No,Cancelled,,600
+APT00660,PAT0566,2026-02-05,Gynecology,New,Afternoon,Yes,Attended,35.0,900
+APT00299,PAT0689,2026-02-20,Gynecology,New,Evening,Yes,Attended,37.0,850
+APT01386,PAT0086,2026-01-28,Gynecology,Follow-up,Morning,Yes,Attended,33.0,510
+APT00444,PAT0356,2026-03-09,Dermatology,Follow-up,Afternoon,Yes,Attended,15.0,370
+APT00664,PAT0770,2026-01-30,General Medicine,Follow-up,Afternoon,Yes,Attended,43.0,300
+APT00526,PAT0141,2026-03-30,General Medicine,Follow-up,Afternoon,Yes,Attended,20.0,300
+APT00576,PAT0490,2026-03-27,Pediatrics,Follow-up,Evening,Yes,Attended,16.0,360
+APT00585,PAT0916,2026-01-08,Ophthalmology,New,Morning,No,Attended,10.0,750
+APT00196,PAT0352,2026-02-05,General Medicine,New,Morning,Yes,Attended,31.0,600
+APT00892,PAT0850,2026-01-09,Gynecology,Follow-up,Morning,Yes,Attended,16.0,460
+APT00369,PAT0101,2026-02-18,Pediatrics,Follow-up,Morning,Yes,Attended,25.0,460
+APT00809,PAT0387,2026-01-30,Gynecology,New,Evening,No,Attended,29.0,850
+APT01473,PAT0307,2026-02-04,General Medicine,Follow-up,Morning,No,Attended,22.0,300
+APT00582,PAT1026,2026-03-10,Dermatology,Follow-up,Morning,Yes,Attended,14.0,420
+APT01227,PAT0538,2026-03-06,Pediatrics,Follow-up,Morning,Yes,Attended,16.0,460
+APT01105,PAT0024,2026-03-17,Ophthalmology,New,Afternoon,No,Attended,23.0,750
+APT00342,PAT0726,2026-02-19,Dermatology,Follow-up,Morning,Yes,No-Show,,420
+APT00928,PAT1041,2026-02-09,Orthopedics,Follow-up,Evening,Yes,Attended,32.0,640
+APT01006,PAT0687,2026-03-16,ENT,New,Evening,Yes,Attended,22.0,750
+APT01498,PAT0054,2026-02-25,Gynecology,New,Evening,Yes,Attended,25.0,850
+APT01013,PAT0822,2026-03-05,General Medicine,New,Afternoon,Yes,Attended,23.0,500
+APT00059,PAT0522,2026-01-05,Orthopedics,New,Morning,No,Attended,29.0,1000
+APT00547,PAT0967,2026-01-19,General Medicine,New,Morning,Yes,Attended,22.0,450
+APT01265,PAT0970,2026-03-05,Cardiology,Follow-up,Morning,Yes,Attended,38.0,770
+APT00240,PAT1079,2026-03-31,Gynecology,New,Evening,No,Attended,18.0,800
+APT01277,PAT0839,2026-02-04,ENT,Follow-up,Morning,Yes,Attended,19.0,490
+APT00800,PAT0012,2026-02-18,Dermatology,New,Afternoon,No,No-Show,,700
+APT00873,PAT0475,2026-02-27,Cardiology,New,Morning,Yes,Attended,48.0,1150
+APT01092,PAT0431,2026-02-12,Orthopedics,Follow-up,Evening,No,No-Show,,540
+APT01348,PAT0970,2026-02-12,Dermatology,Follow-up,Morning,Yes,Attended,,370
+APT01142,PAT0382,2026-02-16,Orthopedics,Follow-up,Morning,Yes,Attended,27.0,540
+APT00028,PAT0426,2026-01-02,ENT,Follow-up,Afternoon,Yes,Attended,29.0,390
+APT01166,PAT0364,2026-01-02,ENT,Follow-up,Evening,Yes,Attended,2.0,340
+APT01284,PAT0836,2026-01-23,Ophthalmology,New,Afternoon,Yes,Attended,36.0,750
+APT00529,PAT0070,2026-01-02,General Medicine,Follow-up,Morning,No,Attended,143.0,300
+APT00127,PAT0680,2026-02-05,Dermatology,New,Morning,Yes,Attended,26.0,750
+APT01134,PAT0596,2026-01-21,ENT,New,Morning,Yes,Attended,22.0,700
+APT01061,PAT0592,2026-01-23,Dermatology,Follow-up,Morning,Yes,No-Show,,520
+APT00714,PAT0291,2026-02-09,Dermatology,Follow-up,Morning,No,Attended,10.0,420
+APT01337,PAT1014,2026-01-15,General Medicine,Follow-up,Afternoon,Yes,No-Show,,250
+APT01075,PAT0438,2026-01-23,Dermatology,Follow-up,Afternoon,Yes,Attended,,520
+APT00349,PAT1052,2026-02-13,ENT,New,Morning,No,Attended,35.0,700
+APT01168,PAT0882,2026-03-27,Cardiology,Follow-up,Morning,No,Attended,28.0,820
+APT01247,PAT0673,2026-01-30,Ophthalmology,Follow-up,Morning,Yes,Attended,36.0,450
+APT00091,PAT0178,2026-02-25,General Medicine,Follow-up,Afternoon,No,Cancelled,,250
+APT00393,PAT0359,2026-03-09,Dermatology,Follow-up,Morning,Yes,No-Show,,470
+APT00881,PAT0457,2026-02-20,ENT,Follow-up,Morning,Yes,Attended,23.0,390
+APT00263,PAT0111,2026-02-20,Ophthalmology,Follow-up,Afternoon,No,Attended,,550
+APT00811,PAT0408,2026-03-24,Pediatrics,New,Afternoon,Yes,Attended,32.0,650
+APT01354,PAT0061,2026-01-08,Dermatology,New,Morning,No,Attended,31.0,750
+APT00461,PAT0871,2026-02-17,Orthopedics,Follow-up,Morning,Yes,No-Show,,540
+APT00149,PAT0712,2026-01-23,General Medicine,Follow-up,Afternoon,Yes,Attended,31.0,400
+APT00337,PAT1020,2026-02-10,Cardiology,New,Morning,Yes,Cancelled,,1200
+APT00854,PAT0004,2026-02-18,Pediatrics,Follow-up,Morning,No,Attended,12.0,310
+APT00391,PAT0838,2026-02-18,Gynecology,New,Morning,Yes,Attended,21.0,850
+APT01106,PAT0965,2026-03-03,Pediatrics,New,Morning,No,Attended,33.0,550
+APT00079,PAT0912,2026-03-06,ENT,Follow-up,Afternoon,Yes,Attended,26.0,390
+APT00686,PAT0826,2026-03-27,General Medicine,New,Morning,No,Attended,33.0,500
+APT01477,PAT0901,2026-02-24,Pediatrics,New,Afternoon,Yes,Attended,39.0,700
+APT00871,PAT0320,2026-01-19,Orthopedics,New,Evening,Yes,No-Show,,900
+APT00036,PAT0105,2026-03-26,Gynecology,New,Morning,No,No-Show,,800
+APT00513,PAT0959,2026-02-12,Pediatrics,Follow-up,Morning,No,Attended,19.0,410
+APT00636,PAT0662,2026-03-23,Pediatrics,Follow-up,Afternoon,Yes,Attended,8.0,310
+APT00538,PAT0882,2026-02-24,Pediatrics,New,Afternoon,No,Attended,24.0,550
+APT00522,PAT0623,2026-03-06,Gynecology,New,Evening,No,Attended,29.0,800
+APT00324,PAT0580,2026-02-17,General Medicine,Follow-up,Afternoon,No,No-Show,,300
+APT01049,PAT0961,2026-01-19,General Medicine,New,Morning,No,Attended,23.0,500
+APT00007,PAT0236,2026-03-26,Dermatology,Follow-up,Morning,Yes,Attended,23.0,370
+APT01441,PAT0019,2026-01-13,Pediatrics,Follow-up,Morning,No,Attended,14.0,410
+APT00792,PAT0512,2026-02-13,General Medicine,Follow-up,Afternoon,Yes,Attended,11.0,300
+APT01072,PAT0303,2026-01-14,General Medicine,New,Morning,Yes,Attended,36.0,500
+APT01114,PAT0867,2026-03-30,Cardiology,New,Morning,Yes,Attended,50.0,1200
+APT00304,PAT0389,2026-03-27,ENT,Follow-up,Afternoon,No,Attended,,490
+APT01308,PAT0269,2026-02-25,Orthopedics,Follow-up,Morning,Yes,No-Show,,540
+APT00217,PAT1003,2026-02-19,Dermatology,New,Morning,No,No-Show,,800
+APT01206,PAT0609,2026-01-30,Ophthalmology,New,Afternoon,Yes,Attended,25.0,800
+APT00396,PAT0313,2026-01-28,Gynecology,New,Afternoon,Yes,Attended,28.0,800
+APT01082,PAT0467,2026-03-04,Cardiology,Follow-up,Afternoon,No,Attended,30.0,720
+APT00351,PAT1041,2026-03-13,General Medicine,Follow-up,Afternoon,Yes,No-Show,,350
+APT01401,PAT0698,2026-03-02,Pediatrics,Follow-up,Morning,Yes,No-Show,,460
+APT01118,PAT0217,2026-02-20,General Medicine,New,Morning,Yes,Attended,25.0,500
+APT00203,PAT0624,2026-02-24,General Medicine,Follow-up,Evening,Yes,Attended,23.0,300
+APT01027,PAT0107,2026-03-11,Dermatology,Follow-up,Morning,Yes,Attended,14.0,520
+APT00384,PAT1009,2026-01-07,General Medicine,New,Afternoon,Yes,No-Show,,500
+APT00943,PAT0768,2026-02-13,Orthopedics,Follow-up,Morning,No,No-Show,,540
+APT00311,PAT0289,2026-02-13,Gynecology,Follow-up,Morning,Yes,Attended,100.0,460
+APT01336,PAT0675,2026-02-11,Orthopedics,New,Afternoon,Yes,Attended,12.0,900
+APT00923,PAT0489,2026-02-26,Gynecology,New,Afternoon,Yes,Attended,44.0,950
+APT00405,PAT0774,2026-01-12,Cardiology,Follow-up,Morning,Yes,Attended,37.0,720
+APT00536,PAT0805,2026-03-17,Cardiology,New,Afternoon,No,Attended,46.0,1250
+APT00009,PAT1033,2026-02-24,Gynecology,New,Morning,Yes,Attended,18.0,900
+APT01197,PAT0830,2026-03-23,Orthopedics,Follow-up,Afternoon,No,Attended,35.0,540
+APT00242,PAT0272,2026-03-18,Dermatology,New,Morning,No,Attended,8.0,650
+APT01268,PAT0903,2026-03-25,Gynecology,New,Morning,No,Attended,36.0,800
+APT00790,PAT1063,2026-02-02,Cardiology,Follow-up,Morning,No,Attended,10.0,670
+APT01232,PAT0416,2026-03-09,ENT,Follow-up,Morning,Yes,Attended,24.0,390
+APT01186,PAT1050,2026-01-06,ENT,New,Morning,Yes,No-Show,,600
+APT00206,PAT0721,2026-03-26,Orthopedics,New,Evening,Yes,Attended,45.0,900
+APT00821,PAT0085,2026-01-09,Cardiology,Follow-up,Afternoon,No,Cancelled,,720
+APT01239,PAT0882,2026-03-10,Orthopedics,New,Afternoon,Yes,Attended,49.0,900
+APT01225,PAT0713,2026-03-20,Pediatrics,Follow-up,Morning,No,Cancelled,,410
+APT00919,PAT0169,2026-02-09,General Medicine,Follow-up,Afternoon,Yes,Attended,46.0,350
+APT00276,PAT0009,2026-03-13,Orthopedics,New,Afternoon,Yes,Attended,15.0,900
+APT01144,PAT0717,2026-01-21,General Medicine,New,Morning,No,Attended,31.0,450
+APT00557,PAT0239,2026-03-31,Dermatology,Follow-up,Morning,Yes,Attended,27.0,370
+APT01069,PAT0434,2026-02-20,Dermatology,Follow-up,Evening,No,Attended,13.0,420
+APT00600,PAT0738,2026-01-08,General Medicine,New,Afternoon,Yes,Attended,23.0,500
+APT00672,PAT0619,2026-02-11,Cardiology,Follow-up,Evening,No,No-Show,,670
+APT00676,PAT0841,2026-01-07,Ophthalmology,Follow-up,Morning,No,Attended,22.0,550
+APT00063,PAT0315,2026-01-29,General Medicine,Follow-up,Morning,No,Attended,20.0,300
+APT01329,PAT0514,2026-01-30,Ophthalmology,Follow-up,Morning,Yes,Attended,18.0,450
+APT00675,PAT0134,2026-03-13,Ophthalmology,New,Morning,Yes,No-Show,,800
+APT00316,PAT0464,2026-03-19,ENT,New,Morning,Yes,No-Show,,600
+APT00979,PAT1039,2026-01-12,Gynecology,New,Afternoon,No,Attended,18.0,850
+APT01324,PAT0273,2026-01-08,Gynecology,Follow-up,Morning,No,Attended,14.0,460
+APT01292,PAT0259,2026-01-19,Cardiology,Follow-up,Afternoon,No,Attended,25.0,720
+APT00535,PAT0982,2026-03-02,Pediatrics,Follow-up,Afternoon,Yes,Attended,158.0,360
+APT01250,PAT0127,2026-02-09,Pediatrics,Follow-up,Afternoon,No,Attended,17.0,460
+APT00617,PAT0987,2026-01-23,Dermatology,Follow-up,Morning,No,No-Show,,420
+APT01110,PAT0798,2026-03-24,ENT,Follow-up,Evening,No,Attended,29.0,390
+APT01317,PAT0482,2026-02-05,General Medicine,Follow-up,Morning,No,No-Show,,300
+APT01485,PAT0872,2026-02-02,Dermatology,New,Afternoon,Yes,Attended,28.0,700
+APT00593,PAT0848,2026-03-16,Gynecology,Follow-up,Afternoon,Yes,Attended,21.0,510
+APT00155,PAT0499,2026-01-07,Orthopedics,Follow-up,Afternoon,Yes,Attended,25.0,640
+APT00655,PAT1012,2026-01-30,Dermatology,Follow-up,Evening,Yes,Cancelled,,520
+APT00787,PAT0634,2026-02-24,General Medicine,Follow-up,Morning,No,Attended,35.0,300
+APT00891,PAT0689,2026-03-30,Cardiology,New,Evening,Yes,Attended,59.0,1200
+APT01190,PAT0543,2026-02-13,General Medicine,Follow-up,Afternoon,Yes,Attended,25.0,300
+APT00189,PAT0540,2026-03-30,General Medicine,Follow-up,Morning,Yes,Attended,15.0,400
+APT00190,PAT0245,2026-01-20,Cardiology,New,Morning,No,Attended,11.0,1200
+APT01362,PAT0533,2026-03-17,General Medicine,New,Evening,No,Cancelled,,500
+APT00574,PAT0257,2026-03-23,General Medicine,New,Morning,No,Attended,48.0,500
+APT01309,PAT0061,2026-03-10,Dermatology,New,Afternoon,No,No-Show,,650
+APT00765,PAT0599,2026-03-04,General Medicine,Follow-up,Afternoon,Yes,Attended,33.0,350
+APT00243,PAT0246,2026-02-09,Pediatrics,Follow-up,Afternoon,Yes,Attended,23.0,360
+APT01342,PAT0492,2026-02-03,Ophthalmology,New,Morning,Yes,Attended,29.0,750
+APT00560,PAT0410,2026-01-20,Gynecology,Follow-up,Afternoon,Yes,Attended,22.0,510
+APT01380,PAT0595,2026-02-05,Orthopedics,Follow-up,Evening,No,Attended,49.0,540
+APT01440,PAT0836,2026-01-15,Dermatology,New,Morning,Yes,No-Show,,650
+APT00352,PAT0989,2026-02-26,Ophthalmology,New,Morning,Yes,Attended,36.0,800
+APT00042,PAT0743,2026-03-30,Cardiology,New,Morning,Yes,Attended,22.0,1250
+APT00670,PAT0688,2026-03-06,Ophthalmology,New,Morning,Yes,Attended,22.0,700
+APT01028,PAT0776,2026-03-24,Orthopedics,Follow-up,Morning,Yes,Attended,7.0,640
+APT00499,PAT0060,2026-02-16,Ophthalmology,Follow-up,Afternoon,No,Attended,24.0,500
+APT00764,PAT0467,2026-03-11,General Medicine,New,Afternoon,Yes,Attended,40.0,600
+APT00100,PAT0275,2026-02-10,Cardiology,New,Morning,No,Attended,19.0,1300
+APT00287,PAT0148,2026-03-10,Pediatrics,Follow-up,Evening,Yes,Attended,13.0,310
+APT00842,PAT0307,2026-01-22,Ophthalmology,Follow-up,Morning,No,Attended,16.0,500
+APT00517,PAT0747,2026-02-25,Orthopedics,Follow-up,Afternoon,Yes,Attended,34.0,490
+APT01211,PAT0127,2026-02-26,General Medicine,New,Afternoon,Yes,Attended,41.0,600
+APT01205,PAT1002,2026-03-26,Ophthalmology,Follow-up,Morning,No,Attended,32.0,450
+APT01325,PAT0279,2026-02-20,Gynecology,Follow-up,Evening,Yes,Attended,10.0,560
+APT00485,PAT0327,2026-03-16,Dermatology,Follow-up,Morning,No,Attended,17.0,470
+APT01299,PAT0197,2026-03-04,Cardiology,New,Morning,Yes,Cancelled,,1150
+APT00209,PAT1027,2026-02-11,General Medicine,Follow-up,Morning,No,Attended,27.0,400
+APT00084,PAT0940,2026-01-12,General Medicine,Follow-up,Morning,Yes,No-Show,,250
+APT01038,PAT0624,2026-03-06,Cardiology,Follow-up,Evening,Yes,No-Show,,670
+APT00251,PAT0010,2026-03-27,General Medicine,Follow-up,Afternoon,Yes,Attended,35.0,250
+APT00951,PAT0260,2026-01-15,Ophthalmology,Follow-up,Morning,No,Cancelled,,550
+APT00077,PAT0862,2026-01-28,Pediatrics,Follow-up,Morning,Yes,Attended,11.0,410
+APT00229,PAT0940,2026-03-20,Orthopedics,New,Morning,No,No-Show,,950
+APT00630,PAT0336,2026-03-30,Cardiology,New,Afternoon,Yes,Attended,63.0,1250
+APT00624,PAT0926,2026-02-05,Orthopedics,New,Morning,No,No-Show,,1000
+APT01085,PAT0138,2026-03-27,Gynecology,Follow-up,Afternoon,Yes,Attended,27.0,610
+APT01081,PAT0762,2026-03-12,Ophthalmology,Follow-up,Afternoon,Yes,Attended,17.0,400
+APT00846,PAT0977,2026-03-16,Cardiology,Follow-up,Afternoon,No,Attended,41.0,770
+APT01074,PAT0830,2026-01-27,ENT,Follow-up,Morning,Yes,Attended,19.0,340
+APT00639,PAT0504,2026-02-17,Ophthalmology,Follow-up,Morning,No,No-Show,,500
+APT00925,PAT0946,2026-01-01,ENT,New,Morning,Yes,Attended,19.0,650
+APT01015,PAT0165,2026-03-26,General Medicine,Follow-up,Afternoon,No,Attended,23.0,300
+APT01182,PAT1028,2026-01-22,Cardiology,Follow-up,Morning,No,Attended,50.0,820
+APT00440,PAT0538,2026-01-05,Dermatology,New,Afternoon,No,No-Show,,750
+APT00420,PAT0107,2026-03-05,Pediatrics,New,Morning,No,No-Show,,650
+APT01459,PAT0393,2026-02-11,Pediatrics,New,Evening,No,Attended,20.0,600
+APT01479,PAT0191,2026-01-20,Pediatrics,New,Morning,No,Attended,11.0,600
+APT00773,PAT0470,2026-03-20,Pediatrics,Follow-up,Evening,No,Attended,14.0,310
+APT00760,PAT0472,2026-01-09,ENT,New,Evening,Yes,Attended,25.0,650
+APT00694,PAT0533,2026-02-19,Orthopedics,Follow-up,Morning,No,Attended,39.0,490
+APT00201,PAT0958,2026-03-30,Cardiology,New,Morning,Yes,Attended,56.0,1150
+APT00350,PAT0577,2026-01-09,Pediatrics,New,Morning,No,Cancelled,,650
+APT01065,PAT0188,2026-02-23,General Medicine,New,Afternoon,Yes,Attended,26.0,500
+APT01230,PAT0349,2026-03-02,Gynecology,New,Morning,Yes,Attended,49.0,900
+APT00626,PAT0880,2026-02-05,Gynecology,Follow-up,Morning,Yes,Attended,33.0,560
+APT01042,PAT0179,2026-02-05,ENT,Follow-up,Evening,Yes,Attended,25.0,340
+APT00981,PAT0542,2026-01-16,Pediatrics,Follow-up,Morning,Yes,Attended,19.0,360
+APT00640,PAT0668,2026-02-13,Orthopedics,Follow-up,Morning,Yes,Attended,29.0,540
+APT00356,PAT0974,2026-02-24,General Medicine,Follow-up,Afternoon,Yes,Attended,99.0,250
+APT00996,PAT0090,2026-02-20,Orthopedics,New,Morning,No,No-Show,,1000
+APT00494,PAT0274,2026-03-05,Gynecology,New,Morning,No,Attended,21.0,850
+APT00181,PAT0816,2026-02-20,General Medicine,Follow-up,Evening,No,Attended,17.0,300
+APT00245,PAT0705,2026-02-24,Pediatrics,Follow-up,Morning,Yes,Cancelled,,360
+APT00818,PAT0203,2026-01-27,General Medicine,Follow-up,Morning,Yes,Attended,14.0,350
+APT00275,PAT0469,2026-02-26,Ophthalmology,Follow-up,Afternoon,Yes,Attended,29.0,550
+APT00393,PAT0359,2026-03-09,Dermatology,Follow-up,Morning,Yes,No-Show,,470
+APT00221,PAT0604,2026-03-24,Dermatology,New,Evening,No,Attended,25.0,800
+APT00235,PAT1044,2026-03-03,ENT,Follow-up,Afternoon,No,No-Show,,340
+APT00035,PAT0188,2026-01-30,General Medicine,New,Afternoon,Yes,Attended,40.0,600
+APT00086,PAT0147,2026-02-18,Orthopedics,New,Morning,No,Attended,40.0,900
+APT00157,PAT0702,2026-02-24,Gynecology,New,Afternoon,No,Attended,48.0,850
+APT01293,PAT0299,2026-01-28,Cardiology,New,Morning,No,Attended,63.0,1150
+APT00747,PAT0144,2026-02-18,Cardiology,New,Morning,Yes,Attended,42.0,1200
+APT01340,PAT0902,2026-02-11,Orthopedics,New,Morning,No,Attended,45.0,950
+APT00364,PAT0668,2026-03-11,Cardiology,Follow-up,Morning,Yes,No-Show,,720
+APT00828,PAT0473,2026-03-23,Dermatology,New,Morning,Yes,Attended,,650
+APT00381,PAT0218,2026-03-09,ENT,Follow-up,Morning,No,Attended,26.0,490
+APT01376,PAT0607,2026-03-04,Dermatology,New,Afternoon,Yes,Attended,16.0,800
+APT00971,PAT0888,2026-01-22,General Medicine,Follow-up,Morning,No,Attended,23.0,350
+APT00510,PAT0734,2026-01-26,Cardiology,New,Morning,Yes,Attended,46.0,1200
+APT00068,PAT0969,2026-02-04,Orthopedics,New,Afternoon,No,Attended,58.0,850
+APT01347,PAT0148,2026-03-12,Cardiology,New,Afternoon,Yes,Attended,44.0,1250
+APT00817,PAT0918,2026-02-26,Dermatology,New,Morning,Yes,Attended,24.0,650
+APT00713,PAT0129,2026-03-10,General Medicine,New,Evening,Yes,Attended,41.0,600
+APT00778,PAT0309,2026-02-03,Pediatrics,Follow-up,Evening,Yes,Attended,12.0,410
+APT01375,PAT0229,2026-03-12,Ophthalmology,New,Evening,No,Attended,21.0,700
+APT00472,PAT0211,2026-03-09,General Medicine,Follow-up,Afternoon,Yes,Attended,32.0,300
+APT00732,PAT0853,2026-01-01,General Medicine,New,Morning,Yes,Attended,9.0,450
+APT00394,PAT0086,2026-01-22,Cardiology,Follow-up,Afternoon,Yes,Attended,38.0,720
+APT01377,PAT1059,2026-03-03,Dermatology,New,Afternoon,No,Attended,25.0,750
+APT00983,PAT0850,2026-02-09,Cardiology,New,Afternoon,Yes,Attended,21.0,1200
+APT00348,PAT1076,2026-01-28,General Medicine,Follow-up,Morning,No,Attended,18.0,300
+APT00822,PAT0167,2026-02-09,General Medicine,Follow-up,Afternoon,Yes,Attended,,300
+APT00330,PAT0384,2026-01-22,Ophthalmology,Follow-up,Morning,Yes,Cancelled,,550
+APT00135,PAT0943,2026-01-21,ENT,New,Evening,No,Attended,6.0,650
+APT01004,PAT0104,2026-01-13,Pediatrics,New,Afternoon,Yes,Attended,25.0,600
+APT00010,PAT0060,2026-03-23,ENT,Follow-up,Afternoon,No,Attended,25.0,390
+APT01280,PAT0762,2026-02-09,Dermatology,Follow-up,Morning,No,Cancelled,,420
+APT00860,PAT0381,2026-03-06,Cardiology,Follow-up,Morning,No,Attended,19.0,770
+APT00011,PAT0893,2026-01-27,General Medicine,Follow-up,Morning,Yes,Attended,22.0,300
+APT00756,PAT0985,2026-03-27,Orthopedics,Follow-up,Morning,No,Attended,17.0,640
+APT00662,PAT0573,2026-03-12,General Medicine,New,Morning,No,Attended,45.0,500
+APT00927,PAT0039,2026-01-19,General Medicine,Follow-up,Morning,Yes,Attended,24.0,400
+APT00699,PAT0778,2026-03-23,Ophthalmology,New,Morning,No,No-Show,,750
+APT00285,PAT0417,2026-01-02,General Medicine,Follow-up,Morning,Yes,Attended,20.0,400
+APT00702,PAT0975,2026-02-13,Cardiology,Follow-up,Afternoon,Yes,Attended,146.0,820
+APT00371,PAT0332,2026-03-25,Gynecology,Follow-up,Morning,Yes,No-Show,,510
+APT00719,PAT0513,2026-02-03,Gynecology,Follow-up,Evening,No,Attended,20.0,460
+APT00598,PAT0637,2026-02-24,Pediatrics,New,Afternoon,No,Attended,29.0,550
+APT00126,PAT0950,2026-02-03,General Medicine,New,Morning,No,Attended,35.0,450
+APT00408,PAT0981,2026-02-25,Gynecology,Follow-up,Evening,No,No-Show,,510
+APT01421,PAT0820,2026-01-23,Dermatology,New,Morning,Yes,Attended,17.0,750
+APT01497,PAT0175,2026-02-25,General Medicine,Follow-up,Afternoon,No,Attended,18.0,350
+APT00588,PAT0057,2026-03-02,Dermatology,New,Evening,Yes,Cancelled,,750
+APT00542,PAT0442,2026-02-05,General Medicine,Follow-up,Morning,No,Attended,17.0,400
+APT00140,PAT0464,2026-01-13,Pediatrics,Follow-up,Morning,No,Attended,23.0,360
+APT00261,PAT0349,2026-01-13,General Medicine,New,Morning,Yes,Cancelled,,500
+APT00474,PAT0743,2026-01-06,Ophthalmology,Follow-up,Afternoon,Yes,Attended,4.0,450
+APT00166,PAT0870,2026-02-16,Orthopedics,Follow-up,Morning,Yes,Attended,20.0,540
+APT00227,PAT0942,2026-03-04,Cardiology,New,Morning,Yes,Attended,,1300
+APT01185,PAT0166,2026-02-25,Dermatology,Follow-up,Morning,No,Attended,9.0,420
+APT00192,PAT0982,2026-02-06,Cardiology,Follow-up,Evening,Yes,Attended,10.0,820
+APT00307,PAT0521,2026-03-03,ENT,Follow-up,Afternoon,Yes,Attended,19.0,490
+APT01150,PAT0271,2026-01-23,ENT,Follow-up,Evening,No,No-Show,,390
+APT01446,PAT0409,2026-01-01,Orthopedics,New,Afternoon,No,No-Show,,850
+APT01455,PAT0635,2026-02-26,ENT,Follow-up,Evening,Yes,Attended,23.0,390
+APT00483,PAT0825,2026-02-10,General Medicine,New,Morning,No,Attended,19.0,500
+APT01216,PAT0604,2026-03-10,Cardiology,Follow-up,Morning,Yes,Attended,52.0,670
+APT00775,PAT0663,2026-01-14,Orthopedics,New,Afternoon,Yes,Attended,53.0,950
+APT01129,PAT0547,2026-02-23,Pediatrics,New,Morning,No,No-Show,,600
+APT00321,PAT0355,2026-02-03,Pediatrics,New,Morning,No,Attended,9.0,550
+APT01200,PAT0502,2026-01-29,Orthopedics,New,Afternoon,Yes,Attended,39.0,900
+APT01297,PAT0589,2026-01-05,General Medicine,New,Morning,Yes,Attended,19.0,500
+APT00018,PAT0014,2026-02-25,Gynecology,Follow-up,Morning,Yes,Attended,33.0,460
+APT01472,PAT1002,2026-02-27,Cardiology,Follow-up,Morning,Yes,Attended,31.0,820
+APT00431,PAT1015,2026-02-16,Ophthalmology,New,Morning,Yes,Attended,32.0,750
+APT01475,PAT0646,2026-02-25,General Medicine,New,Morning,Yes,Attended,25.0,500
+APT01271,PAT0550,2026-03-23,Ophthalmology,New,Afternoon,Yes,Attended,31.0,850
+APT01333,PAT0590,2026-03-18,Orthopedics,New,Afternoon,No,Attended,50.0,1000
+APT00930,PAT0226,2026-03-20,Dermatology,Follow-up,Afternoon,Yes,Attended,20.0,420
+APT01048,PAT0810,2026-03-10,General Medicine,New,Afternoon,Yes,Attended,134.0,500
+APT00208,PAT0264,2026-01-06,General Medicine,Follow-up,Morning,Yes,Attended,18.0,250
+APT00238,PAT0073,2026-03-27,Orthopedics,Follow-up,Morning,No,Attended,38.0,490
+APT00903,PAT0953,2026-03-17,Pediatrics,Follow-up,Morning,Yes,Attended,7.0,360
+APT00346,PAT0956,2026-03-30,General Medicine,Follow-up,Morning,Yes,Attended,17.0,300
+APT01025,PAT0587,2026-03-19,ENT,Follow-up,Morning,Yes,Attended,29.0,390
+APT00751,PAT0870,2026-01-12,Cardiology,Follow-up,Afternoon,No,No-Show,,820
+APT00341,PAT0187,2026-03-24,Ophthalmology,Follow-up,Afternoon,Yes,Attended,34.0,500
+APT00629,PAT0644,2026-02-02,Pediatrics,Follow-up,Morning,Yes,Attended,15.0,310
+APT00458,PAT0539,2026-01-12,Orthopedics,New,Afternoon,Yes,Attended,,850
+APT00176,PAT0651,2026-01-30,General Medicine,Follow-up,Morning,Yes,Attended,25.0,300
+APT00550,PAT0714,2026-01-09,Dermatology,New,Afternoon,Yes,Attended,10.0,750
+APT00301,PAT0281,2026-02-16,Gynecology,New,Evening,Yes,Attended,33.0,900
+APT00460,PAT0257,2026-02-06,Ophthalmology,New,Morning,No,Attended,17.0,750
+APT01104,PAT0481,2026-01-01,Gynecology,Follow-up,Morning,Yes,Attended,23.0,510
+APT01437,PAT0042,2026-01-20,Gynecology,Follow-up,Afternoon,Yes,Attended,23.0,510
+APT01298,PAT0127,2026-02-26,Dermatology,Follow-up,Afternoon,Yes,Attended,24.0,420
+APT00726,PAT0890,2026-03-26,Dermatology,New,Morning,No,Cancelled,,800
+APT01021,PAT0450,2026-03-06,Orthopedics,New,Morning,Yes,Attended,30.0,900
+APT00645,PAT0459,2026-02-25,Pediatrics,New,Evening,Yes,Attended,12.0,700
+APT00701,PAT0232,2026-03-23,Orthopedics,Follow-up,Morning,Yes,Attended,31.0,590
+APT01425,PAT0836,2026-02-03,General Medicine,Follow-up,Morning,Yes,Attended,26.0,300
+APT00464,PAT0677,2026-02-16,ENT,New,Morning,No,Attended,35.0,650
+APT00970,PAT0210,2026-01-05,General Medicine,Follow-up,Evening,Yes,Attended,9.0,250
+APT00327,PAT0362,2026-01-15,Orthopedics,Follow-up,Morning,No,No-Show,,590
+APT00706,PAT0591,2026-03-04,Ophthalmology,Follow-up,Morning,No,No-Show,,450
+APT00743,PAT0790,2026-01-02,General Medicine,Follow-up,Afternoon,Yes,Cancelled,,300
+APT00684,PAT0996,2026-02-19,Dermatology,Follow-up,Evening,No,No-Show,,420
+APT01249,PAT0531,2026-02-05,General Medicine,New,Afternoon,Yes,Attended,20.0,500
+APT00060,PAT0520,2026-02-20,General Medicine,New,Morning,No,Attended,32.0,450
+APT00014,PAT0582,2026-01-15,ENT,Follow-up,Morning,Yes,Attended,19.0,390
+APT00639,PAT0504,2026-02-17,Ophthalmology,Follow-up,Morning,No,No-Show,,500
+APT00994,PAT0747,2026-02-09,General Medicine,Follow-up,Evening,No,No-Show,,350
+APT01001,PAT0517,2026-03-17,Cardiology,Follow-up,Morning,Yes,Attended,34.0,670
+APT01178,PAT0913,2026-01-22,Orthopedics,Follow-up,Morning,No,Attended,34.0,590
+APT00969,PAT0427,2026-03-17,Ophthalmology,Follow-up,Morning,Yes,Attended,20.0,450
+APT01031,PAT0607,2026-03-18,General Medicine,Follow-up,Morning,No,Cancelled,,300
+APT00604,PAT0601,2026-02-11,ENT,Follow-up,Evening,No,Attended,14.0,390
+APT00323,PAT0988,2026-03-13,General Medicine,New,Afternoon,No,Attended,27.0,500
+APT01314,PAT0716,2026-02-20,Orthopedics,New,Morning,Yes,Attended,35.0,1000
+APT00442,PAT0082,2026-03-31,Cardiology,Follow-up,Evening,Yes,Attended,16.0,820
+APT01464,PAT1024,2026-01-27,Ophthalmology,Follow-up,Afternoon,No,Attended,26.0,400
+APT00737,PAT0041,2026-03-03,Orthopedics,New,Morning,Yes,Attended,73.0,900
+APT00555,PAT0257,2026-01-01,Dermatology,Follow-up,Afternoon,Yes,Attended,19.0,420
+APT00257,PAT0133,2026-02-24,Dermatology,Follow-up,Morning,Yes,Attended,12.0,370
+APT00561,PAT0461,2026-01-16,General Medicine,New,Morning,Yes,Attended,38.0,550
+APT01119,PAT0031,2026-01-29,General Medicine,New,Afternoon,Yes,Attended,22.0,450
+APT00712,PAT1047,2026-01-02,Dermatology,New,Afternoon,No,Attended,23.0,800
+APT00861,PAT1035,2026-01-16,Gynecology,Follow-up,Morning,No,Attended,21.0,510
+APT00073,PAT0265,2026-01-13,Pediatrics,Follow-up,Afternoon,Yes,Attended,18.0,460
+APT00258,PAT0083,2026-01-08,Gynecology,Follow-up,Morning,Yes,Attended,44.0,460
+APT01149,PAT0233,2026-03-12,Pediatrics,New,Morning,Yes,Attended,18.0,600
+APT00003,PAT0553,2026-02-10,Dermatology,Follow-up,Morning,No,Attended,14.0,420
+APT01374,PAT0062,2026-02-05,Orthopedics,Follow-up,Morning,Yes,Attended,47.0,640
+APT01170,PAT0836,2026-03-02,Orthopedics,New,Morning,Yes,Attended,46.0,850
+APT00683,PAT0235,2026-02-24,Orthopedics,New,Morning,Yes,Attended,42.0,900
+APT00368,PAT0299,2026-02-27,Gynecology,New,Morning,Yes,Attended,30.0,800
+APT01133,PAT0160,2026-02-11,Dermatology,New,Afternoon,Yes,Attended,27.0,700
+APT00886,PAT1057,2026-03-04,General Medicine,Follow-up,Evening,Yes,Attended,10.0,250
+APT00480,PAT0795,2026-03-03,Orthopedics,Follow-up,Morning,No,Attended,28.0,640
+APT00993,PAT0143,2026-03-11,ENT,Follow-up,Morning,Yes,Attended,,490
+APT00768,PAT0994,2026-03-19,Gynecology,New,Evening,Yes,Attended,7.0,850
+APT01046,PAT0884,2026-03-24,General Medicine,New,Morning,No,Attended,,600
+APT00586,PAT0434,2026-01-21,Dermatology,Follow-up,Morning,Yes,Attended,29.0,420
+APT00118,PAT0799,2026-03-27,General Medicine,Follow-up,Afternoon,Yes,Attended,15.0,400
+APT00960,PAT0213,2026-03-06,Dermatology,Follow-up,Afternoon,Yes,Attended,30.0,370
+APT00006,PAT0919,2026-01-12,ENT,Follow-up,Morning,Yes,Attended,12.0,390
+APT01405,PAT0529,2026-03-11,General Medicine,New,Afternoon,Yes,Attended,16.0,450
+APT00986,PAT0828,2026-03-23,Gynecology,New,Morning,No,Attended,23.0,800
+APT01160,PAT0746,2026-01-28,General Medicine,New,Afternoon,No,No-Show,,500
+APT01407,PAT0969,2026-01-14,General Medicine,New,Morning,Yes,Attended,29.0,550
+APT00703,PAT1092,2026-01-01,Gynecology,Follow-up,Afternoon,No,Attended,20.0,460
+APT00446,PAT1068,2026-03-24,Gynecology,Follow-up,Morning,Yes,Cancelled,,460
+APT00137,PAT0270,2026-01-01,Dermatology,New,Evening,Yes,Attended,29.0,650
+APT00012,PAT0225,2026-02-02,Pediatrics,Follow-up,Afternoon,No,Attended,,410
+APT01059,PAT1094,2026-01-08,General Medicine,New,Morning,Yes,No-Show,,500
+APT00333,PAT0737,2026-03-25,Orthopedics,Follow-up,Afternoon,No,Attended,32.0,540
+APT00605,PAT0539,2026-03-06,Orthopedics,New,Afternoon,Yes,Attended,56.0,900
+APT00569,PAT0577,2026-02-02,General Medicine,New,Morning,No,Cancelled,,500
+APT01356,PAT1095,2026-01-28,Pediatrics,New,Morning,Yes,No-Show,,650
+APT00738,PAT0294,2026-02-10,Dermatology,Follow-up,Morning,No,Attended,20.0,470
+APT01451,PAT0105,2026-03-31,Ophthalmology,Follow-up,Morning,Yes,No-Show,,400
+APT00055,PAT0317,2026-03-18,Orthopedics,Follow-up,Morning,Yes,Attended,36.0,540
+APT00877,PAT0097,2026-03-23,General Medicine,Follow-up,Morning,Yes,Attended,27.0,400
+APT00234,PAT0662,2026-03-03,General Medicine,New,Morning,No,Attended,36.0,450
+APT00085,PAT0520,2026-03-06,Orthopedics,New,Morning,No,Cancelled,,950
+APT00642,PAT0868,2026-03-17,General Medicine,Follow-up,Afternoon,Yes,Attended,32.0,350
+APT01126,PAT0874,2026-03-31,Cardiology,Follow-up,Afternoon,Yes,Attended,52.0,720
+APT00065,PAT0710,2026-02-24,Gynecology,Follow-up,Morning,Yes,Attended,28.0,610
+APT01228,PAT0429,2026-03-19,Orthopedics,Follow-up,Morning,Yes,Attended,26.0,540
+APT00188,PAT0881,2026-03-18,Ophthalmology,New,Morning,No,Attended,39.0,850
+APT00813,PAT0711,2026-03-10,ENT,Follow-up,Evening,Yes,Attended,11.0,390
+APT00152,PAT0854,2026-02-18,General Medicine,New,Morning,No,No-Show,,500
+APT01157,PAT0503,2026-01-14,Ophthalmology,Follow-up,Evening,Yes,Attended,6.0,400
+APT01198,PAT0759,2026-03-12,General Medicine,Follow-up,Afternoon,Yes,Attended,18.0,350
+APT00389,PAT0839,2026-01-13,Orthopedics,Follow-up,Afternoon,Yes,Attended,21.0,540
+APT00138,PAT0396,2026-02-04,General Medicine,Follow-up,Afternoon,No,Attended,12.0,300
+APT00173,PAT0852,2026-02-18,Gynecology,Follow-up,Afternoon,No,No-Show,,510
+APT01102,PAT0070,2026-03-11,Gynecology,Follow-up,Morning,Yes,Attended,25.0,510
+APT00531,PAT0630,2026-01-23,Cardiology,New,Morning,No,Attended,20.0,1200
+APT00824,PAT0468,2026-02-12,Gynecology,New,Afternoon,Yes,Attended,40.0,850
+APT00456,PAT0794,2026-03-12,ENT,Follow-up,Morning,Yes,Attended,23.0,390
+APT01177,PAT1027,2026-03-18,Cardiology,Follow-up,Morning,No,Attended,42.0,720
+APT01181,PAT0918,2026-03-17,Cardiology,Follow-up,Morning,No,No-Show,,770
+APT00595,PAT0247,2026-03-03,ENT,Follow-up,Afternoon,No,Attended,20.0,390
+APT01481,PAT0187,2026-03-12,ENT,New,Afternoon,Yes,Attended,39.0,650
+APT00967,PAT0047,2026-03-16,General Medicine,New,Afternoon,Yes,Attended,41.0,500
+APT00375,PAT0381,2026-03-20,Dermatology,New,Afternoon,Yes,Attended,17.0,700
+APT01371,PAT0762,2026-01-21,ENT,Follow-up,Morning,Yes,Attended,12.0,440
+APT01330,PAT0923,2026-01-29,ENT,Follow-up,Morning,Yes,Attended,7.0,440
+APT00710,PAT1002,2026-01-22,Dermatology,Follow-up,Afternoon,No,Attended,12.0,420
+APT00161,PAT0715,2026-01-09,Cardiology,Follow-up,Morning,No,No-Show,,770
+APT01262,PAT0158,2026-01-05,General Medicine,New,Afternoon,No,Attended,33.0,450
+APT00051,PAT0619,2026-03-06,Dermatology,Follow-up,Morning,No,Attended,11.0,420
+APT01158,PAT0890,2026-01-23,Pediatrics,Follow-up,Morning,Yes,Attended,24.0,360
+APT01067,PAT0711,2026-03-16,Pediatrics,Follow-up,Evening,No,Attended,26.0,360
+APT00671,PAT0047,2026-03-10,Pediatrics,New,Morning,Yes,Attended,17.0,700
+APT00033,PAT1089,2026-01-16,Pediatrics,Follow-up,Morning,Yes,Attended,20.0,410
+APT00239,PAT0825,2026-01-15,Pediatrics,Follow-up,Morning,No,Attended,117.0,360
+APT00736,PAT0213,2026-03-02,Pediatrics,Follow-up,Afternoon,Yes,Attended,15.0,310
+APT00355,PAT1077,2026-03-31,Ophthalmology,New,Morning,Yes,Attended,31.0,800
+APT00165,PAT0684,2026-02-17,Cardiology,Follow-up,Evening,Yes,Attended,34.0,670
+APT00487,PAT1071,2026-02-18,Gynecology,Follow-up,Morning,No,Attended,25.0,560
+APT00962,PAT0266,2026-03-10,General Medicine,Follow-up,Morning,Yes,Attended,22.0,250
+APT00997,PAT0720,2026-02-26,General Medicine,Follow-up,Morning,Yes,Attended,32.0,400
+APT00856,PAT0986,2026-02-10,Cardiology,Follow-up,Evening,Yes,Attended,34.0,820
+APT00296,PAT0126,2026-02-09,Cardiology,Follow-up,Morning,Yes,Attended,,820
+APT01355,PAT0125,2026-01-02,ENT,New,Morning,Yes,Attended,26.0,650
+APT00475,PAT1047,2026-02-18,Orthopedics,New,Afternoon,Yes,Attended,34.0,900
+APT00769,PAT0248,2026-02-19,Pediatrics,New,Morning,Yes,Attended,36.0,600
+APT00473,PAT0287,2026-01-27,Orthopedics,Follow-up,Evening,No,Attended,40.0,640
+APT01429,PAT0228,2026-02-11,Dermatology,Follow-up,Afternoon,Yes,Attended,26.0,420
+APT00802,PAT0841,2026-02-11,Cardiology,Follow-up,Morning,No,Attended,127.0,820
+APT00749,PAT0998,2026-01-23,Pediatrics,New,Morning,Yes,Attended,12.0,600
+APT00917,PAT0696,2026-03-23,General Medicine,Follow-up,Morning,Yes,Attended,,300
+APT00098,PAT0602,2026-01-06,Ophthalmology,New,Afternoon,Yes,Attended,53.0,800
+APT01077,PAT1046,2026-01-20,General Medicine,Follow-up,Afternoon,No,Attended,22.0,300
+APT00577,PAT0746,2026-03-26,General Medicine,Follow-up,Morning,No,Attended,20.0,300
+APT00946,PAT0258,2026-03-06,General Medicine,Follow-up,Evening,Yes,Attended,34.0,300
+APT00721,PAT0467,2026-03-11,Cardiology,New,Evening,No,Attended,72.0,1150
+APT01029,PAT0898,2026-03-04,Pediatrics,New,Morning,No,Attended,17.0,600
+APT00551,PAT0498,2026-03-20,General Medicine,Follow-up,Morning,Yes,Attended,15.0,400
+APT00309,PAT0434,2026-02-13,Orthopedics,New,Evening,Yes,Attended,28.0,950
+APT00896,PAT1049,2026-02-19,ENT,New,Afternoon,Yes,Attended,14.0,700
+APT00825,PAT1096,2026-03-31,General Medicine,Follow-up,Afternoon,Yes,Attended,,300
+APT00673,PAT0464,2026-03-05,General Medicine,Follow-up,Afternoon,Yes,Attended,39.0,350
+APT01045,PAT0793,2026-01-30,General Medicine,Follow-up,Morning,No,Cancelled,,250
+APT00434,PAT0013,2026-03-09,Ophthalmology,New,Morning,Yes,Attended,36.0,750
+APT00583,PAT0420,2026-03-13,General Medicine,New,Morning,No,Attended,29.0,550
+APT01476,PAT0318,2026-01-12,Orthopedics,Follow-up,Morning,Yes,Attended,27.0,540
+APT01070,PAT0288,2026-03-16,Orthopedics,Follow-up,Morning,Yes,Attended,32.0,490
+APT01196,PAT0880,2026-03-26,Cardiology,Follow-up,Evening,Yes,Attended,27.0,670
+APT00853,PAT0173,2026-01-07,General Medicine,Follow-up,Evening,Yes,Attended,34.0,350
+APT00449,PAT0708,2026-03-18,ENT,Follow-up,Morning,No,Cancelled,,340
+APT00766,PAT0992,2026-01-15,General Medicine,New,Morning,No,Attended,22.0,500
+APT00568,PAT0056,2026-02-13,ENT,New,Morning,Yes,Attended,26.0,650
+APT00620,PAT0112,2026-01-27,General Medicine,New,Morning,Yes,Attended,54.0,600
+APT01270,PAT0367,2026-01-26,Dermatology,New,Evening,Yes,Attended,25.0,700
+APT00493,PAT1070,2026-03-10,ENT,New,Afternoon,No,No-Show,,600
+APT00386,PAT1010,2026-02-13,General Medicine,Follow-up,Morning,Yes,Attended,22.0,350
+APT00742,PAT1085,2026-03-05,Pediatrics,Follow-up,Afternoon,Yes,Attended,14.0,360
+APT00282,PAT0653,2026-01-16,Cardiology,Follow-up,Morning,Yes,Attended,29.0,820
+APT00746,PAT0044,2026-03-11,Dermatology,Follow-up,Afternoon,No,No-Show,,420
+APT01248,PAT0439,2026-01-20,General Medicine,Follow-up,Morning,Yes,Attended,23.0,400
+APT00484,PAT0244,2026-03-05,General Medicine,Follow-up,Evening,Yes,Attended,19.0,350
+APT01116,PAT0743,2026-02-02,Ophthalmology,Follow-up,Afternoon,Yes,Attended,23.0,550
+APT00283,PAT0621,2026-03-27,General Medicine,New,Morning,No,No-Show,,500
+APT00438,PAT0149,2026-01-12,General Medicine,New,Afternoon,No,Attended,29.0,450
+APT01331,PAT0642,2026-01-08,General Medicine,Follow-up,Morning,No,Attended,36.0,300
+APT00549,PAT0560,2026-03-23,Dermatology,Follow-up,Morning,No,No-Show,,520
+APT01172,PAT0135,2026-01-15,General Medicine,Follow-up,Afternoon,Yes,Attended,45.0,400
+APT01345,PAT0791,2026-03-18,Pediatrics,Follow-up,Morning,No,Attended,12.0,410
+APT00814,PAT0639,2026-02-19,Pediatrics,Follow-up,Morning,Yes,Attended,25.0,360
+APT01080,PAT0560,2026-01-01,Pediatrics,Follow-up,Afternoon,Yes,Attended,22.0,360
+APT00949,PAT0342,2026-03-17,Ophthalmology,New,Morning,Yes,Attended,22.0,800
+APT00674,PAT0123,2026-03-27,General Medicine,New,Afternoon,No,Attended,48.0,600
+APT01442,PAT0066,2026-02-17,Gynecology,Follow-up,Afternoon,Yes,Attended,12.0,610
+APT00687,PAT0216,2026-02-11,Pediatrics,Follow-up,Morning,No,Attended,22.0,410
+APT01266,PAT0676,2026-03-02,Orthopedics,Follow-up,Morning,Yes,Attended,25.0,490
+APT01432,PAT0818,2026-01-07,General Medicine,New,Afternoon,Yes,Attended,35.0,500
+APT00753,PAT0325,2026-02-05,General Medicine,New,Morning,No,Attended,35.0,550
+APT00122,PAT0482,2026-03-04,Pediatrics,Follow-up,Morning,Yes,Attended,15.0,360
+APT01311,PAT0553,2026-01-27,General Medicine,New,Evening,Yes,No-Show,,450
+APT00700,PAT0832,2026-01-27,Dermatology,Follow-up,Afternoon,No,Attended,16.0,420
+APT00840,PAT0387,2026-03-16,Dermatology,New,Afternoon,Yes,Attended,34.0,650
+APT00017,PAT1086,2026-02-19,ENT,Follow-up,Afternoon,Yes,Cancelled,,490
+APT01494,PAT0181,2026-01-02,Ophthalmology,New,Evening,No,Attended,22.0,800
+APT00779,PAT0775,2026-03-31,ENT,Follow-up,Afternoon,No,No-Show,,390
+APT01187,PAT1041,2026-03-19,Pediatrics,New,Evening,Yes,Attended,18.0,550
+APT01351,PAT0162,2026-02-19,Ophthalmology,New,Morning,Yes,Attended,39.0,700
+APT01036,PAT1096,2026-01-26,Gynecology,New,Morning,Yes,Attended,,850
+APT00914,PAT0588,2026-03-11,Orthopedics,Follow-up,Afternoon,Yes,Attended,32.0,490
+APT00294,PAT0268,2026-01-02,Dermatology,Follow-up,Afternoon,No,Cancelled,,420
+APT00899,PAT0690,2026-02-12,ENT,Follow-up,Evening,No,Attended,21.0,340
+APT00040,PAT0545,2026-02-06,Ophthalmology,New,Evening,No,Attended,,750
+APT00107,PAT0531,2026-03-27,General Medicine,Follow-up,Morning,Yes,Attended,22.0,350
+APT00727,PAT0388,2026-03-12,ENT,Follow-up,Morning,Yes,Attended,23.0,490
+APT00024,PAT0976,2026-02-03,Orthopedics,Follow-up,Afternoon,No,No-Show,,640
+APT00711,PAT0184,2026-03-18,Orthopedics,New,Morning,Yes,Attended,2.0,900
+APT00070,PAT1078,2026-01-20,Pediatrics,New,Morning,Yes,Attended,29.0,600
+APT01012,PAT0503,2026-01-19,Gynecology,Follow-up,Evening,No,Attended,26.0,460
+APT00426,PAT0869,2026-03-26,Cardiology,New,Evening,Yes,Attended,54.0,1250
+APT01030,PAT0336,2026-01-07,Gynecology,Follow-up,Morning,Yes,Attended,42.0,610
+APT01341,PAT0543,2026-02-12,ENT,Follow-up,Morning,Yes,Attended,,390
+APT00104,PAT1099,2026-03-03,Gynecology,Follow-up,Evening,Yes,Attended,23.0,460
+APT00556,PAT0577,2026-01-12,Gynecology,Follow-up,Morning,Yes,Attended,22.0,560
+APT01066,PAT1021,2026-01-05,Ophthalmology,Follow-up,Evening,No,No-Show,,450
+APT01285,PAT0133,2026-02-24,Cardiology,New,Morning,Yes,Attended,46.0,1150
+APT01115,PAT0922,2026-03-06,Ophthalmology,Follow-up,Morning,Yes,Cancelled,,400
+APT00942,PAT0598,2026-03-04,Cardiology,Follow-up,Morning,No,Attended,34.0,670
+APT01417,PAT0771,2026-01-01,Dermatology,Follow-up,Morning,Yes,Attended,20.0,370
+APT00075,PAT0802,2026-03-16,Cardiology,Follow-up,Morning,Yes,Attended,38.0,670
+APT00508,PAT0626,2026-01-05,Orthopedics,Follow-up,Morning,Yes,Attended,33.0,540
+APT01366,PAT0856,2026-02-23,General Medicine,New,Afternoon,No,Attended,38.0,550
+APT00219,PAT0955,2026-02-13,Cardiology,Follow-up,Afternoon,No,Attended,49.0,770
+APT01334,PAT0772,2026-03-09,Gynecology,Follow-up,Morning,Yes,Attended,24.0,560
+APT01079,PAT0797,2026-03-05,ENT,New,Morning,Yes,No-Show,,750
+APT00266,PAT0076,2026-02-27,Ophthalmology,Follow-up,Morning,No,Attended,,550
+APT00937,PAT0919,2026-02-23,Ophthalmology,New,Morning,No,No-Show,,700
+APT00864,PAT0700,2026-03-23,Pediatrics,New,Morning,Yes,Attended,27.0,550
+APT00435,PAT0299,2026-01-28,General Medicine,New,Morning,Yes,Attended,29.0,500
+APT00111,PAT1071,2026-03-09,ENT,New,Afternoon,No,Attended,28.0,650
+APT00511,PAT0091,2026-02-04,Pediatrics,New,Morning,No,Attended,17.0,650
+APT00041,PAT0354,2026-03-24,General Medicine,Follow-up,Morning,Yes,Attended,16.0,350
+APT00505,PAT1026,2026-02-02,Dermatology,Follow-up,Morning,No,Attended,16.0,370
+APT00277,PAT0013,2026-03-10,Gynecology,New,Morning,No,Attended,37.0,850
+APT00810,PAT0481,2026-01-19,Gynecology,Follow-up,Evening,No,Attended,19.0,510
+APT00340,PAT0011,2026-03-25,General Medicine,Follow-up,Morning,No,Attended,,400
+APT01130,PAT0267,2026-03-11,Cardiology,Follow-up,Afternoon,No,No-Show,,820
+APT00985,PAT0497,2026-01-12,General Medicine,New,Morning,Yes,Attended,34.0,500
+APT00847,PAT0735,2026-02-27,Pediatrics,Follow-up,Afternoon,Yes,Attended,16.0,360
+APT00186,PAT0826,2026-01-07,Pediatrics,New,Afternoon,No,No-Show,,650
+APT00799,PAT1066,2026-02-04,General Medicine,New,Afternoon,No,Attended,34.0,450
+APT01091,PAT0828,2026-02-09,Pediatrics,Follow-up,Evening,Yes,Attended,19.0,460
+APT00745,PAT0891,2026-03-12,Cardiology,New,Afternoon,Yes,Attended,39.0,1250
+APT01060,PAT0628,2026-02-09,General Medicine,Follow-up,Evening,No,Attended,16.0,300
+APT01146,PAT0391,2026-02-11,ENT,Follow-up,Morning,Yes,Attended,16.0,440
+APT01009,PAT0223,2026-02-09,General Medicine,New,Morning,No,Attended,18.0,500
+APT00062,PAT0717,2026-01-09,Gynecology,Follow-up,Morning,No,Attended,18.0,610
+APT00922,PAT0393,2026-03-30,Gynecology,New,Evening,No,Attended,16.0,850
+APT00579,PAT0316,2026-03-23,Dermatology,Follow-up,Morning,Yes,Attended,17.0,470
+APT00798,PAT0799,2026-02-02,Cardiology,New,Afternoon,Yes,Attended,35.0,1150
+APT00656,PAT0653,2026-02-10,Orthopedics,New,Afternoon,No,Attended,76.0,1000
+APT01010,PAT1033,2026-03-09,Cardiology,Follow-up,Evening,Yes,Attended,36.0,670
+APT00388,PAT0466,2026-03-18,Orthopedics,Follow-up,Morning,No,Attended,41.0,540
+APT00128,PAT0378,2026-02-04,Dermatology,Follow-up,Evening,Yes,Attended,10.0,420
+APT01360,PAT0473,2026-01-21,Ophthalmology,Follow-up,Evening,Yes,No-Show,,550
+APT00252,PAT0049,2026-03-20,Cardiology,Follow-up,Afternoon,Yes,Attended,26.0,720
+APT01303,PAT0411,2026-03-06,General Medicine,Follow-up,Morning,Yes,Attended,28.0,300
+APT01023,PAT1072,2026-01-02,Gynecology,Follow-up,Morning,Yes,Attended,32.0,510
+APT00308,PAT0630,2026-02-05,Orthopedics,New,Morning,No,No-Show,,900
+APT00194,PAT0142,2026-01-21,Gynecology,Follow-up,Morning,No,No-Show,,510
+APT00647,PAT0912,2026-03-16,Orthopedics,Follow-up,Morning,No,Attended,42.0,590
+APT00503,PAT0442,2026-01-29,General Medicine,New,Morning,Yes,Attended,36.0,500
+APT00034,PAT0900,2026-03-23,Pediatrics,New,Afternoon,No,Attended,31.0,650
+APT01124,PAT0530,2026-02-24,Gynecology,Follow-up,Morning,No,Attended,18.0,610
+APT00801,PAT0833,2026-02-26,Ophthalmology,New,Evening,Yes,Attended,18.0,850
+APT00921,PAT0377,2026-03-26,Orthopedics,Follow-up,Morning,Yes,Cancelled,,540
+APT00058,PAT0457,2026-03-20,Ophthalmology,Follow-up,Morning,Yes,Attended,17.0,450
+APT00992,PAT0292,2026-03-25,ENT,Follow-up,Morning,Yes,Attended,14.0,340
+APT00359,PAT1055,2026-01-01,Dermatology,Follow-up,Evening,Yes,Attended,12.0,470
+APT01438,PAT0465,2026-03-16,ENT,New,Morning,Yes,Attended,32.0,600
+APT00046,PAT0592,2026-03-25,Gynecology,New,Afternoon,Yes,Attended,42.0,800
+APT01195,PAT0101,2026-03-11,ENT,Follow-up,Afternoon,Yes,Attended,11.0,440
+APT01141,PAT0320,2026-02-23,General Medicine,New,Morning,Yes,Attended,34.0,500
+APT00878,PAT0496,2026-01-02,Cardiology,New,Afternoon,Yes,Attended,49.0,1200
+APT00069,PAT0356,2026-03-25,General Medicine,Follow-up,Afternoon,Yes,Attended,15.0,250
+APT00319,PAT0072,2026-03-30,Pediatrics,Follow-up,Afternoon,No,Attended,17.0,360
+APT00292,PAT0229,2026-03-24,ENT,Follow-up,Morning,No,Cancelled,,390
+APT00047,PAT0783,2026-01-22,Ophthalmology,New,Afternoon,Yes,Attended,99.0,850
+APT00278,PAT0924,2026-03-27,Gynecology,Follow-up,Morning,Yes,Attended,21.0,460
+APT01450,PAT1063,2026-03-25,Orthopedics,New,Morning,Yes,Attended,37.0,900
+APT00298,PAT0628,2026-02-02,General Medicine,New,Afternoon,Yes,Cancelled,,550
+APT00225,PAT0558,2026-01-02,General Medicine,Follow-up,Morning,Yes,Attended,19.0,400
+APT00865,PAT0342,2026-03-03,Pediatrics,New,Morning,Yes,Attended,13.0,600
+APT00926,PAT1053,2026-01-05,Pediatrics,New,Evening,Yes,Attended,17.0,600
+APT01088,PAT0228,2026-02-25,Pediatrics,Follow-up,Morning,Yes,Attended,17.0,410
+APT01084,PAT0685,2026-01-06,ENT,New,Morning,Yes,Attended,11.0,750
+APT00365,PAT0549,2026-02-02,Cardiology,New,Afternoon,Yes,Attended,60.0,1250
+APT00428,PAT0866,2026-02-19,General Medicine,New,Afternoon,Yes,Attended,32.0,500
+APT00841,PAT0087,2026-02-02,Dermatology,Follow-up,Afternoon,Yes,Attended,33.0,420
+APT00367,PAT1091,2026-02-11,General Medicine,New,Evening,No,No-Show,,450
+APT00001,PAT0918,2026-02-24,General Medicine,New,Evening,Yes,Attended,35.0,550
+APT00774,PAT0493,2026-02-19,General Medicine,New,Afternoon,Yes,Attended,11.0,500
+APT00843,PAT0440,2026-03-20,General Medicine,New,Afternoon,Yes,Attended,30.0,600
+APT01315,PAT0779,2026-01-08,General Medicine,Follow-up,Afternoon,Yes,Attended,30.0,350
+APT00067,PAT0560,2026-01-06,Cardiology,New,Morning,Yes,Attended,66.0,1250
+APT01033,PAT0602,2026-02-16,Orthopedics,Follow-up,Afternoon,No,Attended,53.0,490
+APT00032,PAT0277,2026-02-16,Cardiology,New,Morning,Yes,Attended,67.0,1200
+APT00868,PAT0545,2026-02-23,Dermatology,New,Evening,No,Attended,24.0,700
+APT00905,PAT0495,2026-02-06,General Medicine,Follow-up,Morning,Yes,Attended,21.0,300
+APT01153,PAT0706,2026-01-06,ENT,Follow-up,Morning,Yes,Attended,15.0,340
+APT00029,PAT0639,2026-03-31,ENT,Follow-up,Afternoon,No,Attended,10.0,390
+APT00295,PAT1035,2026-01-02,Gynecology,New,Morning,No,No-Show,,850
+APT01238,PAT0641,2026-01-12,Orthopedics,New,Afternoon,Yes,Attended,60.0,900
+APT00114,PAT0144,2026-01-20,Orthopedics,Follow-up,Morning,No,Attended,36.0,540
+APT00246,PAT0662,2026-03-27,General Medicine,Follow-up,Morning,Yes,Attended,13.0,350
+APT00416,PAT0192,2026-02-04,Gynecology,New,Morning,No,No-Show,,850
+APT00770,PAT0067,2026-02-04,Ophthalmology,Follow-up,Morning,Yes,Attended,20.0,550
+APT00162,PAT0948,2026-01-13,Pediatrics,New,Morning,Yes,Attended,39.0,650
+APT00679,PAT0023,2026-02-05,Dermatology,Follow-up,Morning,No,No-Show,,420
+APT00412,PAT0735,2026-03-09,General Medicine,Follow-up,Morning,Yes,Attended,23.0,300
+APT01207,PAT0307,2026-01-29,Dermatology,Follow-up,Morning,No,No-Show,,470
+APT00039,PAT0110,2026-03-10,Orthopedics,Follow-up,Morning,Yes,Attended,40.0,540
+APT00117,PAT0973,2026-03-20,General Medicine,New,Morning,No,Attended,29.0,550
+APT01403,PAT0783,2026-02-16,Dermatology,Follow-up,Evening,Yes,No-Show,,470
+APT00002,PAT0320,2026-03-13,Ophthalmology,Follow-up,Evening,No,Attended,13.0,450
+APT01389,PAT0763,2026-03-06,General Medicine,New,Afternoon,Yes,Attended,36.0,500
+APT00248,PAT0495,2026-01-01,General Medicine,Follow-up,Morning,No,Attended,16.0,300
+APT01385,PAT0133,2026-02-16,Dermatology,New,Evening,No,Cancelled,,700
+APT00666,PAT0766,2026-02-10,Ophthalmology,Follow-up,Morning,Yes,Attended,,400
+APT01434,PAT0528,2026-03-25,Pediatrics,New,Evening,Yes,Attended,23.0,600
+APT01120,PAT1083,2026-01-20,ENT,Follow-up,Afternoon,No,Attended,21.0,390
+APT01443,PAT0167,2026-01-16,Dermatology,Follow-up,Afternoon,No,No-Show,,520
+APT00093,PAT0878,2026-01-02,General Medicine,New,Morning,Yes,Attended,22.0,450
+APT00382,PAT0673,2026-03-27,Orthopedics,Follow-up,Morning,Yes,Attended,11.0,590
+APT00115,PAT0668,2026-02-02,Orthopedics,Follow-up,Morning,Yes,Cancelled,,540
+APT01150,PAT0271,2026-01-23,ENT,Follow-up,Evening,No,No-Show,,390
+APT01093,PAT1064,2026-01-12,Orthopedics,Follow-up,Morning,No,Attended,32.0,590
+APT00255,PAT0795,2026-02-26,ENT,New,Morning,Yes,Attended,28.0,650
+APT00430,PAT0604,2026-01-06,Cardiology,Follow-up,Morning,Yes,Attended,17.0,820
+APT00589,PAT0964,2026-03-25,General Medicine,Follow-up,Morning,No,No-Show,,300
+APT00179,PAT1097,2026-01-01,Dermatology,New,Afternoon,No,No-Show,,700
+APT01209,PAT0983,2026-01-01,Dermatology,Follow-up,Morning,Yes,Attended,6.0,520
+APT01379,PAT0761,2026-01-08,Gynecology,Follow-up,Morning,Yes,Attended,20.0,460
+APT00390,PAT0754,2026-02-26,Cardiology,Follow-up,Afternoon,Yes,Attended,27.0,820
+APT00133,PAT0382,2026-02-26,General Medicine,Follow-up,Evening,Yes,Attended,27.0,400
+APT01294,PAT0561,2026-02-04,General Medicine,New,Afternoon,Yes,Attended,16.0,500
+APT00548,PAT0938,2026-03-25,General Medicine,Follow-up,Morning,No,No-Show,,300
+APT00571,PAT0069,2026-01-30,Pediatrics,Follow-up,Afternoon,No,Attended,19.0,360
+APT00290,PAT0402,2026-03-19,Pediatrics,Follow-up,Afternoon,Yes,Attended,12.0,460
+APT00247,PAT0310,2026-02-16,Ophthalmology,Follow-up,Morning,Yes,Attended,30.0,450
+APT00944,PAT0886,2026-03-04,General Medicine,New,Afternoon,No,Cancelled,,500
+APT00776,PAT0286,2026-02-20,Pediatrics,New,Morning,Yes,Attended,37.0,650
+APT00553,PAT0926,2026-03-04,General Medicine,Follow-up,Afternoon,Yes,Attended,6.0,350
+APT00090,PAT0850,2026-03-11,Dermatology,New,Afternoon,Yes,Attended,27.0,800
+APT00193,PAT0717,2026-01-13,Dermatology,Follow-up,Morning,Yes,Attended,20.0,370
+APT01017,PAT1094,2026-01-26,ENT,Follow-up,Evening,No,Attended,28.0,440
+APT01488,PAT0692,2026-02-16,General Medicine,Follow-up,Afternoon,Yes,Attended,16.0,350
+APT01094,PAT0302,2026-02-24,Cardiology,New,Morning,No,Attended,54.0,1300
+APT00437,PAT0787,2026-03-31,Dermatology,New,Morning,Yes,Attended,26.0,750
+APT01125,PAT0738,2026-02-23,ENT,Follow-up,Morning,Yes,Attended,17.0,490
+APT00954,PAT0254,2026-02-19,Cardiology,Follow-up,Afternoon,No,No-Show,,670
+APT00652,PAT0638,2026-03-31,General Medicine,Follow-up,Afternoon,Yes,Attended,31.0,400
+APT01246,PAT0902,2026-03-19,Dermatology,New,Evening,Yes,Attended,29.0,650
+APT00147,PAT0253,2026-01-15,Pediatrics,New,Morning,Yes,Attended,14.0,550
+APT00119,PAT0085,2026-02-25,Gynecology,New,Afternoon,No,No-Show,,850
+APT01011,PAT1077,2026-02-10,Orthopedics,New,Morning,Yes,Attended,24.0,900
+APT01452,PAT0324,2026-02-10,General Medicine,Follow-up,Evening,No,Attended,31.0,250
+APT00534,PAT0568,2026-01-13,General Medicine,Follow-up,Morning,Yes,No-Show,,300
+APT00863,PAT0166,2026-01-14,Cardiology,Follow-up,Morning,No,Attended,40.0,720
+APT00803,PAT0643,2026-01-23,Gynecology,New,Morning,Yes,Attended,,900
+APT00023,PAT0716,2026-01-02,General Medicine,Follow-up,Morning,Yes,Attended,131.0,400
+APT01071,PAT0499,2026-02-20,General Medicine,Follow-up,Morning,No,Attended,25.0,300
+APT01500,PAT0863,2026-02-24,General Medicine,Follow-up,Morning,Yes,Attended,15.0,400
+APT01183,PAT0244,2026-01-12,Cardiology,Follow-up,Evening,No,No-Show,,720
+APT00898,PAT0680,2026-03-25,Gynecology,Follow-up,Morning,Yes,Attended,22.0,510
+APT01370,PAT0449,2026-01-02,Gynecology,New,Morning,No,Attended,36.0,850
+APT00027,PAT0742,2026-02-23,General Medicine,Follow-up,Afternoon,Yes,Attended,22.0,350
+APT00677,PAT0849,2026-01-16,General Medicine,Follow-up,Morning,No,No-Show,,300
+APT00015,PAT0994,2026-02-03,General Medicine,Follow-up,Morning,No,Attended,6.0,300
+APT00501,PAT0886,2026-03-30,ENT,New,Morning,Yes,Attended,17.0,650
+APT01231,PAT0396,2026-03-30,General Medicine,New,Evening,Yes,Attended,34.0,500
+APT00888,PAT0518,2026-01-30,General Medicine,Follow-up,Afternoon,No,Attended,,250
+APT00083,PAT0053,2026-03-26,General Medicine,Follow-up,Afternoon,Yes,Attended,31.0,250
+APT00354,PAT0204,2026-02-25,Ophthalmology,New,Morning,No,Attended,41.0,750
+APT01264,PAT0494,2026-02-02,General Medicine,Follow-up,Afternoon,No,No-Show,,400
+APT01422,PAT0986,2026-01-13,General Medicine,New,Afternoon,No,Attended,27.0,550
+APT01499,PAT0695,2026-03-12,Cardiology,New,Morning,No,Attended,44.0,1200
+APT00601,PAT1089,2026-03-04,Gynecology,Follow-up,Afternoon,Yes,Attended,27.0,510
+APT00876,PAT1083,2026-02-06,Dermatology,Follow-up,Afternoon,No,Cancelled,,470
+APT00274,PAT0763,2026-02-03,Ophthalmology,New,Afternoon,Yes,Attended,13.0,750
+APT00913,PAT0144,2026-01-19,Ophthalmology,New,Morning,Yes,Attended,37.0,700
+APT00685,PAT1083,2026-02-16,General Medicine,Follow-up,Morning,Yes,Attended,20.0,300
+APT01154,PAT0234,2026-01-14,General Medicine,New,Morning,No,Attended,,500
+APT00467,PAT0568,2026-03-31,General Medicine,Follow-up,Morning,Yes,Attended,13.0,250
+APT01387,PAT0516,2026-03-10,General Medicine,Follow-up,Afternoon,No,Attended,34.0,250
+APT01316,PAT0194,2026-03-13,ENT,Follow-up,Morning,Yes,Attended,139.0,440
+APT00663,PAT0599,2026-02-20,Pediatrics,Follow-up,Afternoon,No,Attended,,410
+APT00939,PAT0553,2026-01-08,Cardiology,Follow-up,Afternoon,Yes,Attended,,820
+APT00448,PAT0123,2026-01-30,Ophthalmology,New,Morning,Yes,Attended,24.0,850
+APT00372,PAT0836,2026-01-22,Ophthalmology,Follow-up,Afternoon,No,Attended,,400
+APT00558,PAT0038,2026-03-05,ENT,New,Afternoon,No,No-Show,,750
+APT00855,PAT0854,2026-02-02,General Medicine,New,Afternoon,Yes,No-Show,,500
+APT00995,PAT0627,2026-02-09,Orthopedics,Follow-up,Morning,No,Attended,3.0,490
+APT01359,PAT0243,2026-01-06,Pediatrics,Follow-up,Afternoon,No,Attended,15.0,460
+APT00272,PAT1047,2026-02-13,Pediatrics,New,Morning,Yes,Attended,11.0,650
+APT00606,PAT0214,2026-02-18,Gynecology,Follow-up,Afternoon,No,Attended,9.0,510
+APT00450,PAT0330,2026-01-30,General Medicine,Follow-up,Afternoon,Yes,Cancelled,,350
+APT01286,PAT0055,2026-01-30,Pediatrics,New,Morning,Yes,Attended,21.0,600
+APT00524,PAT0240,2026-02-02,General Medicine,Follow-up,Morning,No,Attended,24.0,300
+APT00215,PAT0063,2026-03-02,Pediatrics,Follow-up,Morning,Yes,Attended,7.0,310
+APT00345,PAT0411,2026-01-05,General Medicine,New,Morning,Yes,Attended,29.0,450
+APT00839,PAT0350,2026-02-19,Orthopedics,Follow-up,Afternoon,No,Attended,36.0,590
+APT01320,PAT0212,2026-03-24,Pediatrics,Follow-up,Morning,Yes,Attended,135.0,360
+APT00148,PAT0019,2026-03-12,Gynecology,New,Afternoon,Yes,Attended,55.0,800
+APT01358,PAT0466,2026-01-15,Gynecology,New,Morning,Yes,Attended,26.0,850
+APT01135,PAT0900,2026-02-06,General Medicine,New,Morning,Yes,Attended,23.0,450
+APT00724,PAT0189,2026-02-16,Orthopedics,Follow-up,Morning,No,Attended,27.0,540
+APT00413,PAT0981,2026-03-27,Pediatrics,New,Afternoon,No,Attended,35.0,550
+APT00689,PAT0935,2026-02-02,General Medicine,Follow-up,Evening,Yes,Attended,15.0,300
+APT01352,PAT0869,2026-02-03,Cardiology,Follow-up,Afternoon,Yes,Attended,60.0,770
+APT00784,PAT0965,2026-02-19,Pediatrics,New,Morning,Yes,Attended,24.0,550
+APT00343,PAT1039,2026-01-27,Cardiology,Follow-up,Morning,Yes,Attended,19.0,670
+APT00948,PAT0123,2026-01-22,General Medicine,Follow-up,Afternoon,No,Attended,14.0,300
+APT00748,PAT0333,2026-02-02,Orthopedics,New,Morning,No,Attended,29.0,900
+APT00174,PAT0508,2026-03-03,ENT,Follow-up,Morning,Yes,Attended,23.0,390
+APT00734,PAT0452,2026-02-25,General Medicine,Follow-up,Afternoon,Yes,Attended,34.0,300
+APT00378,PAT0109,2026-03-10,Orthopedics,Follow-up,Evening,Yes,Attended,18.0,490
+APT01037,PAT0024,2026-02-13,Dermatology,New,Evening,No,Attended,25.0,750
+APT00739,PAT0600,2026-01-19,Orthopedics,Follow-up,Afternoon,No,Attended,37.0,640
+APT00306,PAT0147,2026-03-16,Pediatrics,Follow-up,Morning,No,Attended,14.0,460
+APT00544,PAT0288,2026-03-11,Dermatology,New,Evening,No,No-Show,,750
+APT01263,PAT0172,2026-03-06,Gynecology,Follow-up,Afternoon,No,No-Show,,610
+APT00053,PAT0992,2026-03-12,Cardiology,Follow-up,Afternoon,No,Attended,48.0,720
+APT00019,PAT0164,2026-02-03,Pediatrics,New,Morning,No,Attended,8.0,650
+APT00222,PAT0606,2026-03-12,Ophthalmology,Follow-up,Afternoon,Yes,Attended,41.0,450
+APT01052,PAT0476,2026-02-26,ENT,Follow-up,Morning,Yes,Attended,17.0,340
+APT01139,PAT0001,2026-03-13,ENT,New,Morning,Yes,Attended,25.0,600
+APT00096,PAT0445,2026-03-17,Orthopedics,Follow-up,Afternoon,Yes,Attended,48.0,540
+APT00262,PAT0271,2026-03-27,Ophthalmology,Follow-up,Morning,No,Attended,31.0,550
+APT01210,PAT0333,2026-01-07,ENT,Follow-up,Afternoon,Yes,Attended,42.0,440
+APT00180,PAT0077,2026-02-18,Pediatrics,Follow-up,Morning,No,No-Show,,310
+APT00717,PAT0479,2026-02-06,Ophthalmology,Follow-up,Morning,No,Attended,14.0,450
+APT01427,PAT0313,2026-03-18,Pediatrics,New,Evening,No,Attended,123.0,550
+APT00185,PAT0551,2026-01-01,General Medicine,Follow-up,Morning,Yes,Attended,24.0,300
+APT00468,PAT0986,2026-02-16,Dermatology,Follow-up,Morning,Yes,Attended,11.0,470
+APT00904,PAT0784,2026-02-24,Pediatrics,Follow-up,Afternoon,Yes,No-Show,,460
+APT00072,PAT0793,2026-03-23,General Medicine,Follow-up,Morning,Yes,Attended,26.0,400
+APT01087,PAT0710,2026-03-10,General Medicine,Follow-up,Morning,Yes,Attended,15.0,400
+APT00347,PAT0585,2026-01-27,General Medicine,New,Morning,Yes,Attended,23.0,450
+APT00030,PAT0850,2026-03-25,Dermatology,New,Evening,Yes,Attended,22.0,650
+APT00797,PAT1086,2026-01-19,ENT,Follow-up,Morning,Yes,Attended,6.0,390
+APT00158,PAT0917,2026-03-23,Pediatrics,New,Morning,Yes,Attended,20.0,650
+APT00933,PAT1047,2026-03-10,Dermatology,New,Evening,Yes,Attended,7.0,750
+APT00659,PAT0979,2026-01-16,Cardiology,New,Morning,Yes,Attended,33.0,1200
+APT01332,PAT0505,2026-01-08,General Medicine,Follow-up,Morning,No,Cancelled,,350
+APT00395,PAT0747,2026-01-05,Pediatrics,New,Evening,Yes,No-Show,,600
+APT00989,PAT0889,2026-02-05,Pediatrics,Follow-up,Morning,No,Attended,14.0,410
+APT01199,PAT0163,2026-01-27,Pediatrics,Follow-up,Afternoon,Yes,Attended,24.0,360
+APT01064,PAT0811,2026-01-07,General Medicine,New,Afternoon,Yes,Attended,143.0,550
+APT00403,PAT0351,2026-01-15,Dermatology,New,Afternoon,Yes,Attended,17.0,800
+APT00990,PAT0991,2026-01-12,Orthopedics,Follow-up,Afternoon,No,No-Show,,490
+APT00678,PAT0607,2026-01-22,Ophthalmology,Follow-up,Morning,No,Attended,16.0,450
+APT00823,PAT0384,2026-01-20,ENT,New,Morning,Yes,Attended,31.0,650
+APT00964,PAT0293,2026-01-21,Orthopedics,Follow-up,Afternoon,Yes,Attended,21.0,540
+APT00836,PAT0089,2026-03-13,General Medicine,Follow-up,Evening,Yes,Attended,19.0,300
+APT01034,PAT0403,2026-03-17,Dermatology,Follow-up,Morning,No,Cancelled,,420
+APT01251,PAT0205,2026-02-02,Pediatrics,New,Morning,Yes,Attended,21.0,600
+APT00940,PAT0695,2026-03-23,ENT,Follow-up,Evening,Yes,Attended,12.0,490
+APT01055,PAT0470,2026-01-01,Pediatrics,New,Afternoon,Yes,Attended,,650
+APT00692,PAT0972,2026-03-17,General Medicine,Follow-up,Afternoon,Yes,Attended,42.0,400
+APT01217,PAT0303,2026-01-20,General Medicine,Follow-up,Evening,Yes,Attended,28.0,300
+APT00335,PAT0719,2026-01-08,Ophthalmology,Follow-up,Morning,Yes,Attended,2.0,550
+APT00874,PAT0637,2026-01-13,Ophthalmology,Follow-up,Afternoon,No,Attended,13.0,500
+APT00806,PAT0528,2026-01-28,General Medicine,Follow-up,Afternoon,Yes,Attended,27.0,250
+APT00008,PAT0987,2026-01-29,Cardiology,Follow-up,Morning,Yes,Attended,28.0,670
+APT00518,PAT0306,2026-03-05,Orthopedics,New,Morning,Yes,Attended,15.0,950
+APT00198,PAT0913,2026-03-25,Gynecology,New,Afternoon,No,Attended,41.0,950
+APT00297,PAT0306,2026-03-17,General Medicine,New,Morning,Yes,Attended,40.0,600
+APT01103,PAT0983,2026-01-16,Gynecology,Follow-up,Afternoon,Yes,Attended,36.0,510
+APT01344,PAT0714,2026-01-13,Cardiology,Follow-up,Morning,No,Attended,46.0,720
+APT00123,PAT0456,2026-01-26,Dermatology,Follow-up,Morning,Yes,Attended,18.0,370
+APT00379,PAT0317,2026-01-02,Pediatrics,Follow-up,Morning,Yes,Attended,18.0,360
+APT01063,PAT0456,2026-02-12,Pediatrics,Follow-up,Morning,No,Attended,14.0,360
+APT01424,PAT0747,2026-01-21,Gynecology,New,Morning,Yes,Attended,33.0,850
+APT01202,PAT0381,2026-01-26,General Medicine,Follow-up,Morning,No,No-Show,,250
+APT00163,PAT0648,2026-01-12,Dermatology,Follow-up,Morning,No,Attended,,420
+APT00125,PAT0297,2026-03-16,General Medicine,Follow-up,Morning,Yes,Attended,35.0,300
+APT00552,PAT0849,2026-02-19,Ophthalmology,Follow-up,Evening,Yes,No-Show,,450
+APT00005,PAT0568,2026-03-02,General Medicine,Follow-up,Morning,No,No-Show,,300
+APT00916,PAT0345,2026-03-27,Gynecology,Follow-up,Afternoon,Yes,Attended,5.0,460
+APT00959,PAT0089,2026-01-26,Cardiology,Follow-up,Afternoon,Yes,Cancelled,,820
+APT01287,PAT0510,2026-02-05,General Medicine,New,Afternoon,No,Attended,37.0,450
+APT00612,PAT0032,2026-03-11,General Medicine,New,Afternoon,Yes,Attended,38.0,450
+APT00288,PAT1001,2026-02-20,ENT,New,Afternoon,No,Cancelled,,600
+APT00957,PAT0069,2026-01-28,Dermatology,Follow-up,Afternoon,Yes,No-Show,,470
+APT00472,PAT0211,2026-03-09,General Medicine,Follow-up,Afternoon,Yes,Attended,32.0,300
+APT01136,PAT0502,2026-03-12,Orthopedics,Follow-up,Evening,No,No-Show,,540
+APT00909,PAT0345,2026-02-24,Orthopedics,Follow-up,Morning,Yes,Attended,32.0,540
+APT00507,PAT1008,2026-03-31,General Medicine,Follow-up,Evening,No,Attended,,300
+APT00357,PAT0940,2026-01-26,Orthopedics,New,Evening,No,Attended,27.0,900
+APT00353,PAT0743,2026-02-16,Gynecology,Follow-up,Afternoon,Yes,Attended,,460
+APT00845,PAT0264,2026-03-04,ENT,New,Morning,Yes,Attended,25.0,700
+APT00837,PAT0486,2026-03-24,Dermatology,New,Morning,No,Attended,29.0,750
+APT00947,PAT0757,2026-01-29,General Medicine,Follow-up,Afternoon,Yes,Attended,23.0,350
+APT00668,PAT0391,2026-02-09,General Medicine,Follow-up,Morning,No,Cancelled,,400
+APT00887,PAT0204,2026-01-01,Orthopedics,Follow-up,Morning,Yes,Attended,30.0,490
+APT01339,PAT0503,2026-03-27,Gynecology,New,Afternoon,Yes,Attended,22.0,850
+APT00334,PAT0346,2026-03-24,Gynecology,Follow-up,Afternoon,No,Attended,32.0,510
+APT00154,PAT0913,2026-03-24,Cardiology,New,Morning,Yes,Attended,,1200
+APT00788,PAT0897,2026-02-13,Dermatology,Follow-up,Afternoon,No,Attended,22.0,420
+APT00502,PAT0782,2026-03-26,Orthopedics,Follow-up,Morning,No,Attended,25.0,540
+APT00722,PAT0285,2026-02-18,ENT,New,Evening,Yes,Attended,10.0,650
+APT00374,PAT0874,2026-03-09,ENT,Follow-up,Evening,No,Attended,15.0,390
+APT00591,PAT0046,2026-02-16,Pediatrics,New,Morning,Yes,Attended,24.0,550
+APT00313,PAT0257,2026-01-06,ENT,New,Afternoon,Yes,Cancelled,,600
+APT00043,PAT0317,2026-02-27,Cardiology,New,Afternoon,Yes,Attended,52.0,1150
+APT01167,PAT0202,2026-01-19,Gynecology,New,Morning,Yes,Attended,42.0,950
+APT00646,PAT0464,2026-03-04,Gynecology,Follow-up,Afternoon,Yes,Attended,26.0,560
+APT01282,PAT0711,2026-02-24,Cardiology,Follow-up,Afternoon,No,Attended,44.0,720
+APT00972,PAT0154,2026-02-02,General Medicine,New,Morning,No,Attended,35.0,600
+APT01319,PAT0498,2026-02-17,General Medicine,Follow-up,Evening,Yes,Attended,20.0,350
+APT00523,PAT0730,2026-01-30,ENT,Follow-up,Morning,Yes,Attended,27.0,390
+APT01222,PAT0647,2026-02-05,Gynecology,Follow-up,Evening,No,Attended,32.0,610
+APT00763,PAT0564,2026-03-16,Ophthalmology,New,Morning,No,Cancelled,,750
+APT01300,PAT0221,2026-01-26,General Medicine,Follow-up,Afternoon,Yes,No-Show,,350
+APT01127,PAT0566,2026-03-25,Cardiology,Follow-up,Afternoon,No,Attended,59.0,720
+APT00705,PAT1075,2026-01-07,General Medicine,Follow-up,Evening,Yes,Attended,28.0,300
+APT01257,PAT0240,2026-01-20,Orthopedics,Follow-up,Afternoon,No,Attended,35.0,640
+APT01353,PAT0852,2026-02-12,General Medicine,New,Afternoon,Yes,Attended,12.0,500
+APT00945,PAT0561,2026-03-26,Pediatrics,New,Morning,No,Attended,21.0,600
+APT00169,PAT0940,2026-02-02,ENT,New,Afternoon,Yes,Attended,34.0,600
+APT00361,PAT0105,2026-02-09,Gynecology,Follow-up,Afternoon,Yes,Attended,26.0,460
+APT01019,PAT1046,2026-03-31,Pediatrics,Follow-up,Afternoon,Yes,Attended,24.0,360
+APT01493,PAT1083,2026-03-18,Cardiology,Follow-up,Afternoon,Yes,Attended,57.0,720
+APT00744,PAT0334,2026-03-26,General Medicine,New,Afternoon,Yes,Attended,12.0,500
+APT00273,PAT0279,2026-02-13,Ophthalmology,New,Afternoon,No,Attended,44.0,750
+APT00520,PAT1098,2026-03-11,Pediatrics,Follow-up,Evening,No,Attended,14.0,460
+APT00815,PAT1045,2026-01-16,Gynecology,Follow-up,Morning,Yes,Attended,8.0,510
+APT00819,PAT0417,2026-01-16,Dermatology,New,Morning,Yes,Attended,20.0,700
+APT00735,PAT0277,2026-01-14,Pediatrics,Follow-up,Morning,Yes,No-Show,,360
+APT01419,PAT0254,2026-02-20,Dermatology,New,Morning,Yes,Attended,29.0,750
+APT01323,PAT0221,2026-03-04,General Medicine,Follow-up,Morning,Yes,Attended,18.0,400
+APT01171,PAT0639,2026-03-09,Dermatology,Follow-up,Evening,No,Cancelled,,520
+APT01495,PAT0019,2026-01-20,Gynecology,New,Afternoon,Yes,Attended,38.0,850
+APT01122,PAT0935,2026-01-15,General Medicine,Follow-up,Morning,Yes,Attended,22.0,300
+APT00129,PAT0421,2026-03-25,General Medicine,Follow-up,Afternoon,No,No-Show,,300
+APT00999,PAT0084,2026-03-31,ENT,Follow-up,Morning,No,No-Show,,390
+APT01343,PAT1045,2026-03-18,General Medicine,Follow-up,Afternoon,Yes,Attended,28.0,300
+APT00545,PAT0226,2026-02-04,ENT,Follow-up,Morning,Yes,Attended,26.0,390
+APT00380,PAT0442,2026-01-01,Pediatrics,New,Morning,Yes,Attended,24.0,700
+APT00204,PAT0656,2026-03-10,Ophthalmology,New,Morning,Yes,Attended,21.0,750
+APT00344,PAT0778,2026-02-05,Cardiology,Follow-up,Evening,No,Attended,22.0,720
+APT01290,PAT0987,2026-02-04,Pediatrics,New,Evening,No,Attended,26.0,550
+APT01404,PAT0042,2026-01-08,Gynecology,New,Afternoon,Yes,Attended,34.0,900
+APT00519,PAT0395,2026-02-03,Cardiology,Follow-up,Afternoon,Yes,Attended,47.0,720
+APT00489,PAT1037,2026-02-26,Ophthalmology,Follow-up,Afternoon,Yes,Attended,27.0,450
+APT01486,PAT0635,2026-03-30,Cardiology,Follow-up,Morning,Yes,Attended,41.0,720
+APT00918,PAT0268,2026-01-28,Ophthalmology,New,Afternoon,No,Attended,18.0,750
+APT00233,PAT1090,2026-02-09,General Medicine,Follow-up,Morning,Yes,Cancelled,,300
+APT00795,PAT0528,2026-03-10,Ophthalmology,Follow-up,Morning,No,Attended,20.0,550
+APT01416,PAT0989,2026-01-28,Ophthalmology,Follow-up,Evening,No,Attended,11.0,450
+APT01123,PAT0445,2026-03-12,Cardiology,New,Morning,No,Attended,,1300
+APT00515,PAT1089,2026-03-23,General Medicine,New,Afternoon,No,No-Show,,450
+APT01496,PAT0881,2026-03-16,Cardiology,New,Afternoon,No,Attended,60.0,1250
+APT00512,PAT0167,2026-02-27,ENT,New,Evening,No,Attended,39.0,650
+APT00113,PAT0729,2026-01-12,Cardiology,New,Morning,Yes,Attended,17.0,1150
+APT01447,PAT0112,2026-02-25,Orthopedics,Follow-up,Afternoon,No,Attended,25.0,590
+APT00218,PAT0561,2026-01-19,Pediatrics,New,Morning,No,Attended,24.0,650
+APT00500,PAT0899,2026-03-13,Cardiology,Follow-up,Evening,No,Attended,32.0,770
+APT01480,PAT0831,2026-02-13,Pediatrics,Follow-up,Afternoon,No,Attended,20.0,310
+APT00935,PAT0237,2026-03-19,General Medicine,Follow-up,Afternoon,Yes,Attended,38.0,400
+APT00226,PAT0064,2026-02-27,Pediatrics,Follow-up,Evening,Yes,Cancelled,,410
+APT01043,PAT0800,2026-03-30,Cardiology,New,Morning,No,Attended,56.0,1200
+APT01474,PAT0266,2026-01-26,Pediatrics,New,Morning,Yes,Attended,12.0,550
+APT01399,PAT0794,2026-02-19,Orthopedics,Follow-up,Afternoon,No,Attended,46.0,540
+APT00398,PAT0905,2026-03-17,Dermatology,Follow-up,Morning,No,Attended,11.0,370
+APT00541,PAT0325,2026-03-18,Orthopedics,Follow-up,Afternoon,Yes,Attended,36.0,540
+APT00329,PAT0324,2026-03-09,General Medicine,New,Afternoon,No,Cancelled,,500
+APT00796,PAT0917,2026-03-18,Orthopedics,Follow-up,Afternoon,No,Attended,26.0,490
+APT00849,PAT0493,2026-02-24,General Medicine,New,Morning,Yes,Attended,45.0,500
+APT01457,PAT0889,2026-01-20,Pediatrics,Follow-up,Afternoon,No,Attended,15.0,310
+APT00094,PAT0759,2026-03-27,Ophthalmology,New,Morning,Yes,Attended,17.0,800
+APT00214,PAT0177,2026-01-21,Orthopedics,Follow-up,Afternoon,Yes,Attended,58.0,490
+APT00771,PAT0573,2026-01-29,General Medicine,New,Evening,Yes,No-Show,,600
+APT00338,PAT0664,2026-01-05,General Medicine,Follow-up,Afternoon,Yes,Attended,14.0,250
+APT00804,PAT0106,2026-03-10,Gynecology,New,Evening,Yes,Attended,45.0,950
+APT00213,PAT1013,2026-03-04,Pediatrics,Follow-up,Morning,Yes,Attended,11.0,360
+APT00619,PAT0473,2026-03-30,General Medicine,New,Morning,No,Attended,36.0,500
+APT01140,PAT0741,2026-03-20,Ophthalmology,Follow-up,Afternoon,Yes,Attended,21.0,450
+APT01169,PAT0146,2026-03-02,Orthopedics,New,Afternoon,No,Attended,,850
+APT01137,PAT1013,2026-03-30,General Medicine,New,Morning,Yes,Attended,10.0,500
+APT00037,PAT0546,2026-03-03,Cardiology,Follow-up,Afternoon,No,Attended,25.0,720
+APT00106,PAT0568,2026-01-14,General Medicine,New,Morning,Yes,Attended,26.0,450
+APT00363,PAT0295,2026-02-04,General Medicine,New,Morning,No,Attended,,600
+APT00851,PAT0993,2026-02-12,General Medicine,New,Morning,Yes,Attended,24.0,600
+APT00757,PAT0558,2026-02-17,Cardiology,Follow-up,Afternoon,Yes,Attended,26.0,670
+APT00759,PAT0717,2026-02-26,Cardiology,Follow-up,Afternoon,No,Attended,23.0,820
+APT00366,PAT0631,2026-02-12,Cardiology,New,Morning,No,Attended,34.0,1300
+APT00857,PAT1061,2026-03-02,General Medicine,Follow-up,Afternoon,Yes,Attended,12.0,400
+APT01267,PAT0659,2026-03-06,Pediatrics,New,Morning,No,Attended,24.0,550
+APT01022,PAT0552,2026-02-04,ENT,New,Morning,No,Cancelled,,750
+APT00566,PAT1072,2026-02-17,Dermatology,Follow-up,Morning,Yes,Attended,14.0,420
+APT00250,PAT0579,2026-02-06,Orthopedics,New,Morning,No,No-Show,,900
+APT00477,PAT0006,2026-03-10,Orthopedics,New,Morning,Yes,Attended,21.0,900
+APT01189,PAT0483,2026-01-05,Orthopedics,Follow-up,Afternoon,Yes,Attended,50.0,590
+APT00782,PAT0132,2026-02-18,Cardiology,New,Morning,Yes,Attended,40.0,1200
+APT00455,PAT0710,2026-03-04,Orthopedics,Follow-up,Morning,No,Attended,52.0,540
+APT01367,PAT0879,2026-03-12,Orthopedics,Follow-up,Morning,Yes,Attended,17.0,540
+APT01201,PAT0547,2026-01-07,General Medicine,Follow-up,Morning,No,No-Show,,350
+APT01108,PAT0845,2026-02-11,Orthopedics,New,Evening,Yes,Attended,29.0,850
+APT00231,PAT0735,2026-01-08,Pediatrics,New,Afternoon,No,Attended,17.0,600
+APT00653,PAT0337,2026-03-30,General Medicine,New,Morning,Yes,Attended,,600
+APT00071,PAT0890,2026-03-11,ENT,Follow-up,Morning,Yes,Attended,24.0,490
+APT00611,PAT0814,2026-01-19,Ophthalmology,Follow-up,Morning,Yes,Attended,21.0,450
+APT01175,PAT0491,2026-03-20,ENT,Follow-up,Morning,Yes,Attended,12.0,390
+APT01453,PAT0992,2026-01-12,Orthopedics,New,Afternoon,Yes,Attended,36.0,950
+APT01408,PAT0097,2026-01-07,Pediatrics,Follow-up,Afternoon,Yes,Attended,21.0,360
+APT01468,PAT0253,2026-03-27,Pediatrics,New,Afternoon,Yes,Attended,35.0,550
+APT00411,PAT0412,2026-02-18,Gynecology,Follow-up,Afternoon,Yes,Attended,38.0,610
+APT01423,PAT0332,2026-01-15,General Medicine,Follow-up,Morning,Yes,Attended,14.0,350
+APT01152,PAT0677,2026-02-10,General Medicine,New,Morning,No,Attended,13.0,450
+APT00339,PAT0600,2026-01-28,Ophthalmology,New,Afternoon,No,No-Show,,800
+APT01026,PAT0721,2026-02-11,Pediatrics,Follow-up,Afternoon,No,No-Show,,310
+APT00044,PAT1089,2026-03-31,Cardiology,Follow-up,Afternoon,Yes,Attended,31.0,720
+APT00540,PAT0640,2026-02-27,General Medicine,Follow-up,Afternoon,Yes,Attended,24.0,300
+APT00602,PAT0088,2026-02-13,Cardiology,New,Afternoon,No,Attended,,1250
+APT00966,PAT1005,2026-01-01,Ophthalmology,New,Morning,No,Attended,25.0,750
+APT01411,PAT0758,2026-03-03,Dermatology,Follow-up,Afternoon,Yes,Attended,24.0,420
+APT00172,PAT0436,2026-02-20,Orthopedics,New,Morning,Yes,Attended,35.0,900
+APT00418,PAT0590,2026-01-26,Cardiology,Follow-up,Morning,No,Attended,25.0,820
+APT00838,PAT0708,2026-01-29,Orthopedics,New,Morning,Yes,Attended,38.0,850
+APT01258,PAT0266,2026-03-24,ENT,Follow-up,Afternoon,No,Cancelled,,440
+APT00807,PAT0846,2026-03-09,Cardiology,Follow-up,Afternoon,Yes,Attended,39.0,770
+APT00883,PAT0940,2026-01-27,Dermatology,Follow-up,Afternoon,Yes,Attended,8.0,470
+APT01410,PAT1092,2026-01-14,ENT,Follow-up,Morning,Yes,Attended,31.0,390
+APT00638,PAT0063,2026-03-06,General Medicine,New,Morning,No,Attended,41.0,500
+APT00424,PAT0244,2026-02-18,Pediatrics,New,Afternoon,Yes,Attended,21.0,600
+APT00728,PAT0241,2026-03-02,ENT,New,Morning,Yes,Attended,53.0,700
+APT00968,PAT0622,2026-03-17,Dermatology,New,Evening,Yes,Attended,12.0,700
+APT00377,PAT0447,2026-03-25,General Medicine,New,Afternoon,Yes,Attended,28.0,500
+APT00525,PAT0533,2026-01-02,Orthopedics,Follow-up,Afternoon,Yes,Attended,44.0,640
+APT00439,PAT0122,2026-01-09,Pediatrics,Follow-up,Afternoon,Yes,Attended,14.0,360
+APT01302,PAT0091,2026-02-19,Orthopedics,New,Afternoon,Yes,Attended,18.0,900
+APT00151,PAT0003,2026-02-18,General Medicine,New,Morning,Yes,Attended,19.0,450
+APT00417,PAT0591,2026-02-10,Gynecology,New,Morning,No,Attended,16.0,850
+APT01372,PAT0026,2026-01-15,Cardiology,New,Evening,Yes,Attended,25.0,1150
+APT00982,PAT0359,2026-02-03,Dermatology,Follow-up,Morning,No,Attended,18.0,370
+APT00955,PAT0007,2026-02-18,Orthopedics,Follow-up,Morning,Yes,Attended,26.0,490
+APT01391,PAT0997,2026-02-05,Gynecology,New,Afternoon,No,Attended,41.0,800
+APT00144,PAT0418,2026-01-12,Orthopedics,New,Morning,Yes,Attended,57.0,950
+APT00718,PAT0492,2026-01-28,Orthopedics,Follow-up,Morning,Yes,Attended,44.0,490
+APT00527,PAT0139,2026-02-06,Pediatrics,New,Morning,No,Attended,25.0,600
+APT00584,PAT0844,2026-02-27,Ophthalmology,New,Afternoon,Yes,Attended,28.0,750
+APT00976,PAT0579,2026-01-14,General Medicine,Follow-up,Morning,No,Cancelled,,400
+APT00567,PAT0433,2026-01-02,Cardiology,Follow-up,Afternoon,Yes,Attended,24.0,770
+APT01233,PAT0916,2026-03-26,Orthopedics,New,Afternoon,No,Attended,47.0,950
+APT00441,PAT0376,2026-01-23,General Medicine,Follow-up,Afternoon,Yes,Attended,16.0,300
+APT01156,PAT0491,2026-01-23,General Medicine,Follow-up,Morning,No,Attended,22.0,300
+APT00175,PAT0836,2026-02-25,Orthopedics,New,Evening,Yes,Attended,38.0,1000
+APT01275,PAT0450,2026-01-21,Orthopedics,New,Evening,Yes,Attended,23.0,900
+APT00124,PAT0827,2026-03-06,Orthopedics,Follow-up,Afternoon,No,Cancelled,,590
+APT00139,PAT0913,2026-01-09,General Medicine,Follow-up,Afternoon,Yes,Attended,31.0,300
+APT00880,PAT0009,2026-02-10,Orthopedics,Follow-up,Afternoon,Yes,Attended,21.0,540
+APT01076,PAT0541,2026-01-29,Cardiology,Follow-up,Morning,Yes,Attended,39.0,720
+APT00733,PAT0663,2026-02-16,Cardiology,Follow-up,Afternoon,No,Cancelled,,720
+APT00625,PAT0117,2026-02-20,Pediatrics,Follow-up,Afternoon,Yes,Attended,17.0,410
+APT00785,PAT0929,2026-01-26,Orthopedics,New,Afternoon,No,No-Show,,900
+APT00183,PAT0410,2026-01-20,Ophthalmology,Follow-up,Afternoon,No,Attended,9.0,450
+APT00618,PAT0820,2026-03-19,Gynecology,Follow-up,Morning,Yes,Attended,23.0,460
+APT00691,PAT0557,2026-01-14,Ophthalmology,New,Evening,Yes,Attended,28.0,850
+APT01326,PAT0816,2026-03-20,Gynecology,New,Afternoon,No,Attended,52.0,900
+APT00241,PAT0061,2026-03-23,ENT,New,Morning,Yes,Attended,25.0,650
+APT01255,PAT0464,2026-03-04,Pediatrics,Follow-up,Evening,Yes,Attended,19.0,360
+APT00459,PAT0601,2026-02-06,Pediatrics,New,Morning,No,Attended,20.0,650
+APT00682,PAT0965,2026-01-29,Cardiology,Follow-up,Afternoon,Yes,Attended,46.0,770
+APT00466,PAT0550,2026-03-06,General Medicine,New,Afternoon,Yes,Attended,33.0,600
+APT01188,PAT0728,2026-02-04,Gynecology,Follow-up,Afternoon,Yes,Attended,23.0,610
+APT01192,PAT0400,2026-02-06,Pediatrics,Follow-up,Morning,Yes,Attended,9.0,360
+APT00146,PAT0186,2026-03-30,General Medicine,New,Afternoon,Yes,Attended,35.0,550
+APT00207,PAT0043,2026-02-13,Cardiology,Follow-up,Evening,Yes,Attended,20.0,720
+APT01213,PAT0243,2026-02-05,Gynecology,Follow-up,Morning,No,Attended,20.0,460
+APT01310,PAT0797,2026-03-03,Cardiology,Follow-up,Morning,No,Cancelled,,720
+APT00325,PAT0910,2026-01-08,Ophthalmology,New,Afternoon,No,Attended,46.0,750
+APT00658,PAT0905,2026-01-05,ENT,New,Morning,No,No-Show,,700
+APT01382,PAT1056,2026-01-06,General Medicine,New,Afternoon,Yes,Attended,28.0,450
+APT00715,PAT0501,2026-03-31,Ophthalmology,Follow-up,Afternoon,Yes,Attended,27.0,450
+APT01397,PAT1099,2026-01-15,Orthopedics,Follow-up,Afternoon,No,Attended,27.0,540
+APT01433,PAT1018,2026-03-27,General Medicine,Follow-up,Morning,No,Attended,21.0,300
+APT00080,PAT0001,2026-03-25,Orthopedics,New,Morning,Yes,Attended,26.0,850
+APT01378,PAT0891,2026-01-07,General Medicine,Follow-up,Morning,No,Attended,26.0,300
+APT01365,PAT0082,2026-03-19,Dermatology,New,Morning,Yes,No-Show,,650
+APT00688,PAT0657,2026-02-20,Dermatology,Follow-up,Afternoon,Yes,Attended,16.0,420
+APT00167,PAT1071,2026-03-09,Pediatrics,New,Afternoon,Yes,Attended,25.0,600
+APT00230,PAT0157,2026-03-16,Cardiology,Follow-up,Morning,Yes,Attended,31.0,670
+APT01462,PAT0486,2026-02-20,ENT,Follow-up,Morning,Yes,Attended,20.0,340
+APT01465,PAT0342,2026-03-24,ENT,Follow-up,Morning,No,Attended,38.0,440
+APT00741,PAT0451,2026-02-12,General Medicine,New,Morning,Yes,Attended,32.0,450
+APT00101,PAT0509,2026-03-30,General Medicine,Follow-up,Morning,No,Attended,31.0,350
+APT00291,PAT0606,2026-01-23,Cardiology,Follow-up,Evening,Yes,Attended,26.0,720
+APT00445,PAT0925,2026-01-16,General Medicine,Follow-up,Afternoon,No,No-Show,,300
+APT00879,PAT0661,2026-01-07,General Medicine,Follow-up,Afternoon,Yes,Attended,20.0,350
+APT01078,PAT0833,2026-01-13,Ophthalmology,Follow-up,Morning,Yes,Attended,2.0,450
+APT00740,PAT0541,2026-01-16,Orthopedics,Follow-up,Afternoon,No,Attended,37.0,490
+APT00392,PAT0030,2026-01-27,Pediatrics,New,Morning,No,Attended,7.0,700
+APT00087,PAT0629,2026-01-20,Ophthalmology,Follow-up,Evening,Yes,Attended,23.0,400
+APT01133,PAT0160,2026-02-11,Dermatology,New,Afternoon,Yes,Attended,27.0,700
+APT00667,PAT0384,2026-01-20,General Medicine,Follow-up,Morning,No,Attended,15.0,350
+APT01276,PAT0095,2026-03-31,Pediatrics,New,Afternoon,No,Attended,95.0,600
+APT01458,PAT1085,2026-03-25,Gynecology,New,Morning,Yes,Attended,,950
+APT00476,PAT0296,2026-03-31,Dermatology,New,Afternoon,No,Attended,35.0,650
+APT01296,PAT0362,2026-01-14,ENT,New,Afternoon,Yes,Attended,31.0,650
+APT00045,PAT0333,2026-02-09,General Medicine,New,Morning,No,No-Show,,500
+APT00789,PAT0772,2026-02-03,General Medicine,New,Morning,Yes,Attended,32.0,550
+APT01003,PAT0782,2026-01-23,General Medicine,Follow-up,Afternoon,Yes,Attended,33.0,400
+APT01138,PAT0703,2026-02-17,Pediatrics,Follow-up,Afternoon,No,Attended,13.0,460
+APT00025,PAT0819,2026-03-03,ENT,Follow-up,Afternoon,Yes,Attended,6.0,340
+APT01236,PAT0036,2026-02-19,General Medicine,Follow-up,Morning,Yes,Attended,131.0,300
+APT00833,PAT0326,2026-02-18,Cardiology,New,Afternoon,Yes,No-Show,,1300
+APT01194,PAT0879,2026-02-13,Dermatology,Follow-up,Morning,Yes,Attended,9.0,470
+APT00592,PAT0417,2026-01-12,Orthopedics,Follow-up,Morning,Yes,Attended,15.0,540
+APT01489,PAT1058,2026-02-04,General Medicine,Follow-up,Morning,Yes,Attended,14.0,250
+APT00974,PAT0769,2026-01-15,General Medicine,New,Morning,Yes,Attended,15.0,500
+APT01057,PAT0445,2026-03-09,Dermatology,New,Morning,Yes,Attended,18.0,700
+APT00110,PAT0023,2026-02-12,General Medicine,New,Afternoon,Yes,Attended,28.0,500
+APT01161,PAT0428,2026-02-03,Pediatrics,New,Evening,Yes,Attended,25.0,650
+APT00223,PAT0830,2026-01-30,ENT,Follow-up,Morning,Yes,Attended,17.0,440
+APT01053,PAT0170,2026-02-18,Pediatrics,Follow-up,Evening,Yes,Attended,11.0,360
+APT01312,PAT0926,2026-02-27,Cardiology,Follow-up,Evening,Yes,Attended,,720
+APT00723,PAT0601,2026-03-25,Gynecology,Follow-up,Morning,No,Attended,20.0,510
+APT00056,PAT0123,2026-03-13,ENT,New,Evening,Yes,Attended,39.0,650
+APT01491,PAT0171,2026-02-16,ENT,Follow-up,Evening,Yes,Attended,24.0,340
+APT00254,PAT0731,2026-01-19,ENT,Follow-up,Morning,Yes,Attended,25.0,490
+APT01436,PAT0427,2026-03-11,Ophthalmology,Follow-up,Evening,Yes,Attended,13.0,550
+APT01073,PAT0087,2026-01-14,Cardiology,Follow-up,Morning,Yes,Attended,42.0,720
+APT00643,PAT0680,2026-03-09,General Medicine,Follow-up,Afternoon,Yes,Attended,25.0,250
+APT00546,PAT1088,2026-02-03,General Medicine,Follow-up,Morning,No,Attended,21.0,250
+APT00478,PAT0550,2026-03-31,Pediatrics,New,Afternoon,Yes,Attended,36.0,650
+APT00950,PAT1083,2026-01-29,Cardiology,New,Evening,Yes,Attended,24.0,1250
+APT00844,PAT0740,2026-02-24,General Medicine,Follow-up,Morning,Yes,Attended,22.0,300
+APT00064,PAT0709,2026-01-13,Ophthalmology,Follow-up,Afternoon,No,Attended,35.0,450
+APT00414,PAT0118,2026-02-04,ENT,Follow-up,Morning,Yes,Attended,22.0,490
+APT00385,PAT0569,2026-02-20,Dermatology,Follow-up,Afternoon,Yes,Attended,22.0,420
+APT01428,PAT1018,2026-02-18,Dermatology,New,Morning,Yes,Attended,6.0,700
+APT00975,PAT0983,2026-01-16,Dermatology,New,Morning,Yes,Attended,11.0,800
+APT00885,PAT0208,2026-03-09,Ophthalmology,New,Morning,Yes,Attended,30.0,800
+APT00452,PAT0323,2026-02-11,General Medicine,Follow-up,Morning,Yes,Attended,30.0,300
+APT01259,PAT0913,2026-03-19,General Medicine,Follow-up,Morning,No,No-Show,,350
+APT00657,PAT0007,2026-03-18,Gynecology,Follow-up,Evening,Yes,Attended,27.0,510
+APT01328,PAT1005,2026-03-16,Orthopedics,Follow-up,Morning,Yes,Attended,37.0,490
+APT00370,PAT1080,2026-01-09,General Medicine,New,Afternoon,Yes,Attended,152.0,600
+APT00690,PAT0311,2026-03-23,Dermatology,New,Morning,Yes,Attended,11.0,650
+APT00220,PAT0850,2026-01-09,Orthopedics,Follow-up,Morning,Yes,Cancelled,,540
+APT01414,PAT0331,2026-02-25,Gynecology,New,Morning,No,Attended,49.0,850
+APT01321,PAT0665,2026-03-19,ENT,New,Afternoon,Yes,Attended,36.0,750
+APT00022,PAT0446,2026-03-16,Gynecology,New,Evening,Yes,Attended,21.0,850
+APT00761,PAT0074,2026-01-06,Gynecology,Follow-up,Morning,No,Attended,13.0,510
+APT00870,PAT0192,2026-03-05,ENT,New,Evening,No,Attended,33.0,750
+APT00421,PAT0382,2026-01-26,Cardiology,Follow-up,Morning,No,Attended,41.0,770
+APT01350,PAT0308,2026-02-20,Orthopedics,Follow-up,Morning,Yes,Attended,,640
+APT00200,PAT0653,2026-03-12,Cardiology,New,Morning,Yes,Attended,28.0,1200
+APT00451,PAT0991,2026-03-05,ENT,Follow-up,Afternoon,Yes,Attended,22.0,440
+APT01162,PAT0697,2026-01-07,Gynecology,New,Afternoon,Yes,Attended,48.0,950
+APT01020,PAT0989,2026-01-07,Orthopedics,Follow-up,Morning,No,No-Show,,640
+APT00912,PAT0541,2026-03-04,Cardiology,New,Afternoon,Yes,Attended,15.0,1200
+APT00697,PAT0300,2026-02-12,Dermatology,Follow-up,Morning,Yes,Attended,13.0,420
+APT00812,PAT0898,2026-01-27,General Medicine,New,Morning,Yes,Attended,26.0,450
+APT01237,PAT1091,2026-01-01,ENT,New,Afternoon,No,Attended,40.0,650
+APT01483,PAT1021,2026-02-23,Gynecology,Follow-up,Afternoon,No,Attended,29.0,610
+APT00911,PAT0820,2026-01-05,Cardiology,Follow-up,Afternoon,Yes,Attended,40.0,820
+APT01050,PAT0420,2026-02-16,General Medicine,Follow-up,Afternoon,Yes,Attended,23.0,250
+APT00506,PAT0832,2026-02-16,Orthopedics,New,Afternoon,Yes,Attended,52.0,950
+APT01369,PAT0012,2026-03-20,General Medicine,Follow-up,Afternoon,Yes,Attended,28.0,300
+APT01256,PAT0151,2026-02-05,ENT,Follow-up,Morning,No,Attended,23.0,390
+APT00406,PAT0510,2026-02-19,ENT,New,Morning,Yes,Attended,22.0,600
+APT00318,PAT0623,2026-01-23,General Medicine,New,Evening,No,Attended,35.0,600
+APT00184,PAT0106,2026-01-05,Cardiology,New,Morning,Yes,Attended,44.0,1200
+APT01121,PAT0898,2026-01-02,Gynecology,New,Morning,No,No-Show,,850
+APT01402,PAT0847,2026-01-05,General Medicine,New,Morning,No,Attended,29.0,550
+APT00610,PAT0012,2026-01-22,Cardiology,New,Morning,Yes,Cancelled,,1150
+APT00627,PAT0115,2026-03-16,Orthopedics,Follow-up,Morning,No,No-Show,,640
+APT00486,PAT0987,2026-01-08,Pediatrics,Follow-up,Morning,No,Attended,18.0,360
+APT00279,PAT0923,2026-03-10,Pediatrics,New,Afternoon,Yes,Attended,37.0,650
+APT00631,PAT0922,2026-01-13,General Medicine,New,Morning,Yes,Attended,31.0,450
+APT00021,PAT1052,2026-01-30,General Medicine,New,Afternoon,Yes,No-Show,,500
+APT00171,PAT0213,2026-02-03,Gynecology,New,Evening,Yes,Attended,32.0,850
+APT00902,PAT0893,2026-03-03,Pediatrics,New,Afternoon,Yes,Attended,30.0,700
+APT01040,PAT0986,2026-01-15,Cardiology,New,Morning,Yes,Attended,55.0,1300
+APT00177,PAT0205,2026-02-06,Pediatrics,New,Afternoon,No,Attended,34.0,650
+APT00328,PAT0093,2026-03-30,Dermatology,Follow-up,Morning,No,Attended,8.0,370
+APT00707,PAT0785,2026-01-06,Dermatology,Follow-up,Afternoon,Yes,Attended,17.0,420
+APT01223,PAT0001,2026-03-20,Pediatrics,Follow-up,Afternoon,No,Attended,25.0,310
+APT00471,PAT0887,2026-03-26,Ophthalmology,Follow-up,Morning,Yes,Attended,12.0,500
+APT01393,PAT0049,2026-03-31,Dermatology,Follow-up,Afternoon,Yes,Attended,10.0,520
+APT00267,PAT0329,2026-03-03,General Medicine,New,Evening,No,No-Show,,500
+APT00616,PAT0647,2026-01-27,General Medicine,Follow-up,Afternoon,Yes,Attended,125.0,300
+APT00131,PAT0330,2026-03-25,General Medicine,Follow-up,Afternoon,Yes,Attended,20.0,300
+APT00866,PAT1043,2026-01-23,Dermatology,Follow-up,Morning,No,Attended,17.0,470
+APT01456,PAT0730,2026-02-20,Ophthalmology,Follow-up,Morning,No,Attended,31.0,400
+APT01363,PAT0494,2026-03-10,General Medicine,New,Afternoon,Yes,Cancelled,,500
+APT01398,PAT0929,2026-03-30,Pediatrics,Follow-up,Evening,No,Attended,12.0,410
+APT00490,PAT0907,2026-02-20,General Medicine,New,Morning,Yes,Attended,29.0,600
+APT00607,PAT0074,2026-03-18,Gynecology,New,Morning,Yes,Attended,19.0,950
+APT01218,PAT0235,2026-02-05,Pediatrics,Follow-up,Afternoon,Yes,Attended,16.0,410
+APT01165,PAT0800,2026-03-16,Orthopedics,Follow-up,Morning,Yes,Attended,21.0,640
+APT00417,PAT0591,2026-02-10,Gynecology,New,Morning,No,Attended,16.0,850
+APT00153,PAT0228,2026-02-16,General Medicine,New,Evening,No,Attended,31.0,600
+APT00890,PAT0443,2026-01-23,Ophthalmology,New,Afternoon,No,No-Show,,750
+APT00850,PAT0633,2026-01-20,Gynecology,Follow-up,Morning,No,Attended,27.0,510
+APT00280,PAT1076,2026-03-23,Gynecology,Follow-up,Morning,Yes,Attended,20.0,510
+APT01035,PAT0540,2026-01-01,Dermatology,Follow-up,Morning,Yes,Attended,12.0,420
+APT00270,PAT0922,2026-03-24,General Medicine,Follow-up,Morning,No,Attended,21.0,250
+APT00097,PAT0708,2026-02-27,General Medicine,Follow-up,Evening,Yes,Attended,18.0,300
+APT00211,PAT1040,2026-02-02,General Medicine,Follow-up,Afternoon,No,Attended,33.0,300
+APT00570,PAT0268,2026-03-30,General Medicine,New,Afternoon,Yes,Attended,23.0,500
+APT01463,PAT0446,2026-01-07,General Medicine,Follow-up,Morning,No,Attended,12.0,400
+APT00872,PAT0580,2026-02-25,General Medicine,New,Afternoon,Yes,Attended,26.0,550
+APT00533,PAT0205,2026-02-16,Cardiology,Follow-up,Morning,Yes,Attended,22.0,670
+APT01460,PAT0204,2026-02-18,Ophthalmology,Follow-up,Morning,No,Attended,,450
+APT01357,PAT0838,2026-02-09,Gynecology,Follow-up,Morning,Yes,Attended,35.0,510
+APT01100,PAT0739,2026-01-05,Dermatology,New,Morning,No,Attended,15.0,700
+APT00713,PAT0129,2026-03-10,General Medicine,New,Evening,Yes,Attended,41.0,600
+APT00078,PAT0350,2026-02-09,Pediatrics,New,Morning,Yes,Attended,16.0,600
+APT00264,PAT0869,2026-02-16,General Medicine,Follow-up,Morning,No,Attended,23.0,250
+APT01159,PAT0592,2026-03-25,Pediatrics,New,Afternoon,Yes,Cancelled,,550
+APT00150,PAT0223,2026-01-12,General Medicine,Follow-up,Afternoon,No,No-Show,,300
+APT00470,PAT0798,2026-03-25,Pediatrics,New,Morning,Yes,Attended,37.0,550
+APT00565,PAT0569,2026-02-09,Orthopedics,Follow-up,Evening,Yes,Attended,27.0,590
+APT00462,PAT0899,2026-01-29,Orthopedics,Follow-up,Afternoon,No,Attended,32.0,490
+APT01278,PAT0478,2026-03-18,Ophthalmology,Follow-up,Morning,No,Attended,28.0,450
+APT00897,PAT0506,2026-01-08,General Medicine,Follow-up,Afternoon,Yes,Attended,,350
+APT01394,PAT0528,2026-02-23,Pediatrics,Follow-up,Afternoon,No,No-Show,,360
+APT01346,PAT0416,2026-01-05,ENT,Follow-up,Morning,Yes,Attended,19.0,340
+APT00696,PAT1091,2026-03-13,General Medicine,New,Evening,Yes,Attended,21.0,450
+APT01176,PAT0041,2026-02-02,General Medicine,Follow-up,Morning,Yes,Attended,9.0,300
+APT00929,PAT1080,2026-03-27,General Medicine,Follow-up,Afternoon,Yes,Attended,14.0,400
+APT01327,PAT0276,2026-02-16,General Medicine,New,Afternoon,No,Attended,41.0,500
+APT01215,PAT0503,2026-02-17,Cardiology,New,Morning,No,Attended,38.0,1250
+APT00587,PAT0643,2026-03-17,General Medicine,Follow-up,Afternoon,No,Attended,30.0,250
+APT01373,PAT0508,2026-01-12,Ophthalmology,New,Morning,Yes,Attended,32.0,750
+APT00244,PAT0628,2026-02-04,Cardiology,New,Morning,Yes,Attended,2.0,1300
+APT01112,PAT0044,2026-01-23,Dermatology,New,Afternoon,Yes,Attended,25.0,800
+APT00752,PAT0797,2026-02-10,Orthopedics,Follow-up,Afternoon,Yes,Attended,45.0,640
+APT01445,PAT0403,2026-02-18,General Medicine,New,Morning,Yes,Attended,46.0,450
+APT01313,PAT0661,2026-02-26,ENT,New,Afternoon,Yes,Attended,30.0,750
+APT00649,PAT1026,2026-01-22,Cardiology,Follow-up,Morning,No,Attended,39.0,720
+APT01191,PAT0931,2026-01-05,General Medicine,New,Morning,Yes,Attended,26.0,600
+APT00596,PAT0230,2026-03-03,Orthopedics,New,Morning,Yes,Attended,17.0,950
+APT00314,PAT0858,2026-03-18,Orthopedics,New,Morning,Yes,Attended,42.0,900
+APT00934,PAT0999,2026-02-04,Gynecology,New,Morning,No,Attended,25.0,850
+APT00156,PAT0521,2026-02-27,Gynecology,Follow-up,Morning,No,Attended,25.0,460
+APT01381,PAT1049,2026-03-17,General Medicine,Follow-up,Afternoon,Yes,Attended,32.0,300
+APT01406,PAT0292,2026-03-19,General Medicine,New,Morning,Yes,Attended,30.0,500
+APT01304,PAT0008,2026-01-30,Ophthalmology,Follow-up,Morning,Yes,Attended,25.0,400
+APT01151,PAT1084,2026-01-07,Cardiology,New,Morning,No,Attended,61.0,1300
+APT01000,PAT0673,2026-02-06,General Medicine,Follow-up,Afternoon,Yes,Attended,33.0,300
+APT01047,PAT0492,2026-02-06,Dermatology,Follow-up,Morning,Yes,Attended,12.0,370
+APT01307,PAT0320,2026-01-12,Orthopedics,New,Morning,Yes,Attended,,900
+APT01392,PAT0578,2026-01-20,Cardiology,Follow-up,Morning,No,Attended,20.0,720
+APT00026,PAT0104,2026-02-11,General Medicine,Follow-up,Evening,Yes,Attended,12.0,300
+APT00197,PAT0545,2026-02-27,General Medicine,New,Afternoon,Yes,Attended,26.0,550
+APT01089,PAT0281,2026-02-13,Ophthalmology,Follow-up,Morning,Yes,Attended,8.0,450
+APT00016,PAT0169,2026-03-16,Cardiology,Follow-up,Morning,Yes,Attended,34.0,720
+APT01322,PAT0670,2026-03-24,Cardiology,Follow-up,Afternoon,Yes,Attended,28.0,670
+APT00884,PAT1032,2026-01-12,ENT,Follow-up,Evening,Yes,Attended,24.0,340
+APT00622,PAT0017,2026-03-23,General Medicine,Follow-up,Morning,Yes,Attended,16.0,300
+APT01361,PAT0959,2026-01-08,General Medicine,Follow-up,Evening,No,Attended,12.0,250
+APT01051,PAT0649,2026-02-17,Ophthalmology,Follow-up,Morning,No,No-Show,,500
+APT01068,PAT0529,2026-02-02,ENT,New,Afternoon,Yes,Attended,39.0,700
+APT00498,PAT0543,2026-03-25,General Medicine,New,Morning,No,Attended,22.0,500
+APT00793,PAT0289,2026-02-20,Cardiology,New,Morning,Yes,Attended,49.0,1300
+APT00965,PAT0333,2026-02-12,General Medicine,New,Afternoon,No,Attended,35.0,450
+APT00516,PAT0516,2026-01-05,General Medicine,Follow-up,Morning,No,Attended,25.0,350
+APT01478,PAT0454,2026-02-25,Cardiology,New,Evening,Yes,Attended,23.0,1200
+APT01412,PAT0208,2026-01-02,Dermatology,Follow-up,Morning,Yes,Attended,15.0,370
+APT01096,PAT0769,2026-03-23,Pediatrics,Follow-up,Morning,Yes,Attended,16.0,360
+APT00543,PAT0804,2026-02-18,Cardiology,Follow-up,Afternoon,No,Attended,51.0,670
+APT00457,PAT0712,2026-03-17,Dermatology,New,Afternoon,No,No-Show,,700
+APT00634,PAT0081,2026-01-01,Pediatrics,New,Afternoon,No,Attended,36.0,650
+APT00432,PAT1097,2026-01-20,Pediatrics,Follow-up,Afternoon,Yes,Attended,23.0,460
+APT00628,PAT0814,2026-03-27,Cardiology,New,Afternoon,No,Attended,35.0,1250
+APT00729,PAT0417,2026-02-20,ENT,Follow-up,Afternoon,Yes,Attended,24.0,390
+APT01289,PAT0410,2026-03-03,General Medicine,Follow-up,Afternoon,Yes,Attended,36.0,300
+APT00210,PAT0596,2026-02-20,ENT,New,Morning,No,Attended,25.0,600
+APT00317,PAT0270,2026-03-24,General Medicine,New,Morning,No,No-Show,,500
+APT00514,PAT0207,2026-03-17,Orthopedics,Follow-up,Morning,Yes,Attended,23.0,640
+APT01338,PAT0128,2026-03-27,Dermatology,Follow-up,Morning,Yes,Attended,21.0,420
+APT00830,PAT0275,2026-01-22,Cardiology,Follow-up,Afternoon,Yes,Attended,47.0,820
+APT00320,PAT0074,2026-02-23,Pediatrics,Follow-up,Afternoon,No,Attended,22.0,460
+APT01032,PAT0838,2026-03-19,Gynecology,New,Morning,Yes,Attended,24.0,900
+APT01418,PAT0074,2026-03-30,General Medicine,New,Morning,No,Cancelled,,600
+APT00142,PAT0020,2026-01-01,Gynecology,New,Afternoon,Yes,Attended,116.0,800
+APT01111,PAT0018,2026-03-20,ENT,Follow-up,Afternoon,Yes,Attended,24.0,390
+APT00754,PAT0080,2026-01-14,Pediatrics,Follow-up,Morning,No,Attended,17.0,410
+APT01002,PAT0485,2026-03-30,General Medicine,New,Morning,Yes,Attended,131.0,500
+APT01240,PAT0757,2026-02-18,ENT,Follow-up,Afternoon,No,Attended,29.0,490
+APT00581,PAT0434,2026-01-30,Cardiology,Follow-up,Morning,No,Attended,35.0,820
+APT00563,PAT0357,2026-02-02,Cardiology,Follow-up,Morning,No,Attended,15.0,670
+APT00399,PAT0698,2026-03-19,Gynecology,Follow-up,Afternoon,No,Attended,18.0,610
+APT00669,PAT0896,2026-01-07,Orthopedics,Follow-up,Morning,Yes,Attended,24.0,540
+APT00253,PAT0623,2026-03-13,Gynecology,Follow-up,Afternoon,Yes,Attended,33.0,510
+APT00908,PAT0437,2026-01-27,Pediatrics,New,Afternoon,No,Attended,27.0,600
+APT00469,PAT0359,2026-01-07,Dermatology,Follow-up,Afternoon,Yes,Attended,14.0,370
+APT00915,PAT0657,2026-02-09,Ophthalmology,New,Afternoon,Yes,Attended,37.0,800
+APT00358,PAT1078,2026-02-25,ENT,New,Morning,No,Attended,19.0,600
+APT01279,PAT0683,2026-02-20,Pediatrics,Follow-up,Afternoon,Yes,Attended,18.0,310
+APT01301,PAT0995,2026-03-06,Orthopedics,Follow-up,Morning,Yes,No-Show,,640
+APT01203,PAT0870,2026-02-09,Cardiology,Follow-up,Morning,Yes,Attended,43.0,720
+APT01306,PAT0468,2026-03-06,Dermatology,Follow-up,Afternoon,No,No-Show,,370
+APT01415,PAT0344,2026-01-02,Orthopedics,Follow-up,Morning,No,Attended,37.0,540
+APT00509,PAT0998,2026-03-31,General Medicine,Follow-up,Morning,Yes,Attended,7.0,350
+APT00750,PAT0055,2026-02-05,Gynecology,Follow-up,Morning,Yes,Attended,17.0,460
+APT00130,PAT0105,2026-03-25,General Medicine,Follow-up,Morning,Yes,Attended,22.0,350
+APT00145,PAT1055,2026-02-03,Dermatology,Follow-up,Afternoon,No,Attended,,420
+APT00961,PAT0834,2026-02-26,General Medicine,New,Morning,Yes,Attended,33.0,500
+APT00848,PAT0421,2026-03-23,General Medicine,New,Morning,No,Attended,16.0,500
+APT00716,PAT0186,2026-02-13,General Medicine,Follow-up,Morning,No,Attended,24.0,400
+APT00906,PAT1062,2026-01-14,Ophthalmology,Follow-up,Morning,Yes,Attended,26.0,400
+APT01097,PAT0444,2026-02-17,General Medicine,New,Evening,Yes,Attended,39.0,450
+APT00236,PAT0033,2026-01-28,Orthopedics,Follow-up,Evening,No,Attended,32.0,640
+APT01062,PAT0527,2026-01-07,ENT,Follow-up,Evening,Yes,Attended,16.0,490

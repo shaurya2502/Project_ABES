@@ -1,0 +1,6 @@
+Wait_Band,Count,Percentage
+0-15 min (Short),219,17.69
+16-30 min (Moderate),610,49.27
+31-45 min (Long),301,24.31
+46-60 min (Very Long),75,6.06
+60+ min (Critical),33,2.67

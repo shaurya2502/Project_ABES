@@ -1,0 +1,9 @@
+Department,0-15 min (Short),16-30 min (Moderate),31-45 min (Long),46-60 min (Very Long),60+ min (Critical)
+Cardiology,10,40,56,34,10
+Dermatology,54,58,5,0,0
+ENT,24,70,21,1,1
+General Medicine,44,173,80,5,9
+Gynecology,13,74,42,7,2
+Ophthalmology,18,61,22,2,2
+Orthopedics,11,46,59,26,4
+Pediatrics,45,88,16,0,5

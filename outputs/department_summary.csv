@@ -1,0 +1,9 @@
+Department,Total_Appointments,NoShow_Percent,Avg_Wait_Min,Avg_Fee,Est_Fees_Attended
+General Medicine,375,11.47,28.24,403.73,124850
+Pediatrics,181,10.5,23.49,490.83,75450
+Orthopedics,178,14.04,34.92,709.89,102930
+Cardiology,177,8.47,38.13,933.16,141540
+Dermatology,160,20.0,17.63,547.19,63200
+Gynecology,155,9.03,28.64,671.48,93270
+ENT,143,11.89,24.09,517.34,60420
+Ophthalmology,131,16.03,25.62,601.91,62550

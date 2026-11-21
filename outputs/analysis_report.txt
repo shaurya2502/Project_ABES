@@ -1,0 +1,357 @@
+HOSPITAL APPOINTMENT OPERATIONS ANALYSIS - FULL REPORT
+(Operational data only. No medical conclusions.)
+
+======================================================================
+TASK 1a: First 5 rows
+======================================================================
+  Appointment_ID Patient_ID Appointment_Date        Department Appointment_Type  Time_Slot SMS_Reminder Attendance_Status  Waiting_Time_Min  Consultation_Fee
+0       APT00573    PAT0793       2026-02-04        Gynecology        Follow-up  Afternoon           No          Attended              24.0               560
+1       APT00984    PAT0427       2026-03-16       Orthopedics              New    Evening          Yes          Attended              55.0               900
+2       APT00783    PAT0930       2026-03-09       Dermatology        Follow-up    Morning           No          Attended              24.0               420
+3       APT00537    PAT0859       2026-03-09  General Medicine        Follow-up    Evening          Yes          Attended              21.0               400
+4       APT01145    PAT0307       2026-03-25        Cardiology        Follow-up    Morning           No          Attended              59.0               670
+
+======================================================================
+TASK 1b: Shape (rows, columns)
+======================================================================
+(1512, 10)
+
+======================================================================
+TASK 1c: Data types
+======================================================================
+Appointment_ID                  str
+Patient_ID                      str
+Appointment_Date     datetime64[us]
+Department                      str
+Appointment_Type                str
+Time_Slot                       str
+SMS_Reminder                    str
+Attendance_Status               str
+Waiting_Time_Min            float64
+Consultation_Fee              int64
+
+======================================================================
+TASK 1d: Summary statistics (numeric columns)
+======================================================================
+                 Appointment_Date  Waiting_Time_Min  Consultation_Fee
+count                        1512       1194.000000       1512.000000
+mean   2026-02-15 16:38:05.714285         28.128141        583.822751
+min           2026-01-01 00:00:00          2.000000        250.000000
+25%           2026-01-23 00:00:00         18.000000        417.500000
+50%           2026-02-16 00:00:00         25.000000        540.000000
+75%           2026-03-11 00:00:00         34.000000        720.000000
+max           2026-03-31 00:00:00        158.000000       1300.000000
+std                           NaN         18.224901        227.043998
+
+======================================================================
+TASK 2a: Missing values per column
+======================================================================
+Appointment_ID         0
+Patient_ID             0
+Appointment_Date       0
+Department             0
+Appointment_Type       0
+Time_Slot              0
+SMS_Reminder           0
+Attendance_Status      0
+Waiting_Time_Min     318
+Consultation_Fee       0
+
+======================================================================
+TASK 2b: Type of missing waiting times
+======================================================================
+Total blank waiting times               318
+Not applicable (No-Show / Cancelled)    269
+Real missing (Attended patients)         49
+
+======================================================================
+TASK 2c: Real missing values left after filling
+======================================================================
+0
+
+======================================================================
+TASK 3a: Duplicate Appointment_ID count
+======================================================================
+12
+
+======================================================================
+TASK 3b: Completely identical duplicate rows
+======================================================================
+12
+
+======================================================================
+TASK 3c: Rows after removing duplicates
+======================================================================
+1500
+
+======================================================================
+TASK 4a: Total appointments
+======================================================================
+1500
+
+======================================================================
+TASK 4b: Attendance status counts and percentages
+======================================================================
+                   Count  Percentage
+Attendance_Status                   
+Attended            1238       82.53
+No-Show              186       12.40
+Cancelled             76        5.07
+
+======================================================================
+TASK 5: Average waiting time by department (attended patients)
+======================================================================
+                  Attended_Appointments  Avg_Wait_Min  Max_Wait_Min
+Department                                                         
+Cardiology                          150         38.13         146.0
+Orthopedics                         146         34.92          98.0
+Gynecology                          138         28.64         116.0
+General Medicine                    311         28.24         152.0
+Ophthalmology                       105         25.62         151.0
+ENT                                 117         24.09         139.0
+Pediatrics                          154         23.49         158.0
+Dermatology                         117         17.63          35.0
+
+======================================================================
+TASK 6: No-show percentage by department (highest first)
+======================================================================
+                  Total_Appointments  NoShow_Count  NoShow_Percent
+Department                                                        
+Dermatology                      160            32           20.00
+Ophthalmology                    131            21           16.03
+Orthopedics                      178            25           14.04
+ENT                              143            17           11.89
+General Medicine                 375            43           11.47
+Pediatrics                       181            19           10.50
+Gynecology                       155            14            9.03
+Cardiology                       177            15            8.47
+
+======================================================================
+TASK 7a: SMS reminder vs attendance status (counts)
+======================================================================
+Attendance_Status  Attended  Cancelled  No-Show
+SMS_Reminder                                   
+No                      412         41      127
+Yes                     826         35       59
+
+======================================================================
+TASK 7b: SMS reminder vs attendance status (row %)
+======================================================================
+Attendance_Status  Attended  Cancelled  No-Show
+SMS_Reminder                                   
+No                    71.03       7.07    21.90
+Yes                   89.78       3.80     6.41
+
+======================================================================
+TASK 7c: No-show % difference (No SMS minus SMS)
+======================================================================
+15.49
+
+======================================================================
+TASK 8: Average consultation fee by department
+======================================================================
+                  Avg_Fee  Min_Fee  Max_Fee
+Department                                 
+Cardiology         933.16      670     1300
+Orthopedics        709.89      490     1000
+Gynecology         671.48      460      950
+Ophthalmology      601.91      400      850
+Dermatology        547.19      370      800
+ENT                517.34      340      750
+Pediatrics         490.83      310      700
+General Medicine   403.73      250      600
+
+======================================================================
+TASK 9a: Volume by date and department (first 10 days)
+======================================================================
+Department        Cardiology  Dermatology  ENT  General Medicine  Gynecology  Ophthalmology  Orthopedics  Pediatrics  Total
+Appointment_Date                                                                                                           
+2026-01-01                 1            8    3                 3           4              1            2           5     27
+2026-01-02                 2            3    3                 6           4              4            2           2     26
+2026-01-05                 2            4    2                 8           2              1            3           2     24
+2026-01-06                 4            2    4                 3           3              3            0           1     20
+2026-01-07                 1            2    4                10           2              1            4           3     27
+2026-01-08                 1            2    0                 8           4              3            1           4     23
+2026-01-09                 3            1    1                 4           2              0            1           2     14
+2026-01-12                 4            1    2                 4           3              1            9           1     25
+2026-01-13                 1            2    0                 6           0              3            2           7     21
+2026-01-14                 2            0    2                 6           1              4            1           2     18
+
+======================================================================
+TASK 9b: Busiest 5 dates
+======================================================================
+Appointment_Date
+2026-03-27    38
+2026-02-05    34
+2026-02-16    33
+2026-03-25    32
+2026-02-18    32
+
+======================================================================
+TASK 9c: Volume by weekday and department
+======================================================================
+Department  Cardiology  Dermatology  ENT  General Medicine  Gynecology  Ophthalmology  Orthopedics  Pediatrics
+Weekday                                                                                                       
+Monday              39           32   29                78          30             19           43          39
+Tuesday             37           35   28                77          29             26           24          46
+Wednesday           35           24   27                69          40             23           40          31
+Thursday            33           35   33                67          28             29           36          29
+Friday              33           34   26                84          28             34           35          36
+
+======================================================================
+TASK 9d: Monthly volume by department
+======================================================================
+Department  Cardiology  Dermatology  ENT  General Medicine  Gynecology  Ophthalmology  Orthopedics  Pediatrics
+Month                                                                                                         
+2026-01             55           50   43               119          50             50           55          57
+2026-02             58           51   46               120          55             36           58          62
+2026-03             64           59   54               136          50             45           65          62
+
+======================================================================
+TASK 9e: Total workload per department
+======================================================================
+Department
+General Medicine    375
+Pediatrics          181
+Orthopedics         178
+Cardiology          177
+Dermatology         160
+Gynecology          155
+ENT                 143
+Ophthalmology       131
+
+======================================================================
+TASK 10a: Waiting time - New vs Follow-up
+======================================================================
+                  Count  Avg_Wait  Median_Wait  Max_Wait
+Appointment_Type                                        
+Follow-up           712     25.33         22.5     158.0
+New                 526     31.76         29.0     152.0
+
+======================================================================
+TASK 10b: Average waiting time by department and appointment type
+======================================================================
+Appointment_Type  Follow-up    New
+Department                        
+Cardiology            35.84  41.29
+Dermatology           16.00  20.06
+ENT                   21.72  27.37
+General Medicine      25.59  31.98
+Gynecology            24.51  33.85
+Ophthalmology         21.02  32.00
+Orthopedics           31.72  39.64
+Pediatrics            21.69  25.45
+
+======================================================================
+TASK 11: NumPy statistics of waiting time (minutes)
+======================================================================
+Mean                   28.06
+Median                 25.00
+Q1 (25%)               18.00
+Q2 (50%)               25.00
+Q3 (75%)               34.00
+Standard deviation     17.96
+Minimum                 2.00
+Maximum               158.00
+
+======================================================================
+TASK 12a: IQR outlier limits
+======================================================================
+IQR                            16.00
+Lower limit                    -6.00
+Upper limit                    58.00
+Number of outliers             41.00
+Outlier percent of attended     3.31
+
+======================================================================
+TASK 12b: Long-wait outliers by department
+======================================================================
+Department
+Cardiology          16
+General Medicine     9
+Orthopedics          5
+Pediatrics           5
+Gynecology           3
+Ophthalmology        2
+ENT                  1
+
+======================================================================
+TASK 13a: Waiting-time bands
+======================================================================
+                       Count  Percentage
+Wait_Band                               
+0-15 min (Short)         219       17.69
+16-30 min (Moderate)     610       49.27
+31-45 min (Long)         301       24.31
+46-60 min (Very Long)     75        6.06
+60+ min (Critical)        33        2.67
+
+======================================================================
+TASK 13b: Waiting-time bands by department
+======================================================================
+Wait_Band         0-15 min (Short)  16-30 min (Moderate)  31-45 min (Long)  46-60 min (Very Long)  60+ min (Critical)
+Department                                                                                                           
+Cardiology                      10                    40                56                     34                  10
+Dermatology                     54                    58                 5                      0                   0
+ENT                             24                    70                21                      1                   1
+General Medicine                44                   173                80                      5                   9
+Gynecology                      13                    74                42                      7                   2
+Ophthalmology                   18                    61                22                      2                   2
+Orthopedics                     11                    46                59                     26                   4
+Pediatrics                      45                    88                16                      0                   5
+
+======================================================================
+TASK 14a: Estimated total fees (attended appointments)
+======================================================================
+724210
+
+======================================================================
+TASK 14b: Estimated fees by department
+======================================================================
+                  Attended_Appointments  Total_Fees  Avg_Fee
+Department                                                  
+Cardiology                          150      141540   943.60
+General Medicine                    311      124850   401.45
+Orthopedics                         146      102930   705.00
+Gynecology                          138       93270   675.87
+Pediatrics                          154       75450   489.94
+Dermatology                         117       63200   540.17
+Ophthalmology                       105       62550   595.71
+ENT                                 117       60420   516.41
+
+======================================================================
+EXTRA: Estimated fee value lost to no-shows
+======================================================================
+108490
+
+======================================================================
+EXTRA: Time slot summary
+======================================================================
+           Appointments  NoShow_Percent  Avg_Wait_Min
+Time_Slot                                            
+Afternoon           527           12.33         31.12
+Evening             210           14.29         25.16
+Morning             763           11.93         26.73
+
+======================================================================
+DELIVERABLE: Department summary
+======================================================================
+                  Total_Appointments  NoShow_Percent  Avg_Wait_Min  Avg_Fee  Est_Fees_Attended
+Department                                                                                    
+General Medicine                 375           11.47         28.24   403.73             124850
+Pediatrics                       181           10.50         23.49   490.83              75450
+Orthopedics                      178           14.04         34.92   709.89             102930
+Cardiology                       177            8.47         38.13   933.16             141540
+Dermatology                      160           20.00         17.63   547.19              63200
+Gynecology                       155            9.03         28.64   671.48              93270
+ENT                              143           11.89         24.09   517.34              60420
+Ophthalmology                    131           16.03         25.62   601.91              62550
+
+======================================================================
+TASK 15: Operational recommendations
+======================================================================
+1. Send SMS reminders for every appointment. No-show rate is 21.9% without an SMS and 6.41% with one, a gap of 15.49 percentage points.
+2. Focus no-show reduction on Dermatology (20.0%) and Ophthalmology. Use confirmation calls and a small overbooking buffer in these departments.
+3. Reduce waiting at Cardiology, which has the longest average wait (38.13 min). Review doctor schedules and add support staff in busy hours.
+4. Balance workload: General Medicine has the most appointments and Friday is the busiest weekday. Spread bookings across other days and add staff on peak days.
+5. Monitor waits above 58 minutes (IQR limit) and the Afternoon slot, which has the longest average wait. 8.7% of attended patients wait over 45 minutes. New patients wait 6.43 min more than follow-ups, so give new patients dedicated slots.

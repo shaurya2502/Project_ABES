@@ -1,0 +1,25 @@
+Appointment_ID,Patient_ID,Appointment_Date,Department,Appointment_Type,Time_Slot,SMS_Reminder,Attendance_Status,Waiting_Time_Min,Consultation_Fee,Waiting_Time_Clean
+APT00393,PAT0359,2026-03-09,Dermatology,Follow-up,Morning,Yes,No-Show,,470,
+APT00393,PAT0359,2026-03-09,Dermatology,Follow-up,Morning,Yes,No-Show,,470,
+APT00417,PAT0591,2026-02-10,Gynecology,New,Morning,No,Attended,16.0,850,16.0
+APT00417,PAT0591,2026-02-10,Gynecology,New,Morning,No,Attended,16.0,850,16.0
+APT00427,PAT0468,2026-02-26,ENT,New,Afternoon,Yes,No-Show,,600,
+APT00427,PAT0468,2026-02-26,ENT,New,Afternoon,Yes,No-Show,,600,
+APT00472,PAT0211,2026-03-09,General Medicine,Follow-up,Afternoon,Yes,Attended,32.0,300,32.0
+APT00472,PAT0211,2026-03-09,General Medicine,Follow-up,Afternoon,Yes,Attended,32.0,300,32.0
+APT00548,PAT0938,2026-03-25,General Medicine,Follow-up,Morning,No,No-Show,,300,
+APT00548,PAT0938,2026-03-25,General Medicine,Follow-up,Morning,No,No-Show,,300,
+APT00639,PAT0504,2026-02-17,Ophthalmology,Follow-up,Morning,No,No-Show,,500,
+APT00639,PAT0504,2026-02-17,Ophthalmology,Follow-up,Morning,No,No-Show,,500,
+APT00713,PAT0129,2026-03-10,General Medicine,New,Evening,Yes,Attended,41.0,600,41.0
+APT00713,PAT0129,2026-03-10,General Medicine,New,Evening,Yes,Attended,41.0,600,41.0
+APT00985,PAT0497,2026-01-12,General Medicine,New,Morning,Yes,Attended,34.0,500,34.0
+APT00985,PAT0497,2026-01-12,General Medicine,New,Morning,Yes,Attended,34.0,500,34.0
+APT01022,PAT0552,2026-02-04,ENT,New,Morning,No,Cancelled,,750,
+APT01022,PAT0552,2026-02-04,ENT,New,Morning,No,Cancelled,,750,
+APT01133,PAT0160,2026-02-11,Dermatology,New,Afternoon,Yes,Attended,27.0,700,27.0
+APT01133,PAT0160,2026-02-11,Dermatology,New,Afternoon,Yes,Attended,27.0,700,27.0
+APT01150,PAT0271,2026-01-23,ENT,Follow-up,Evening,No,No-Show,,390,
+APT01150,PAT0271,2026-01-23,ENT,Follow-up,Evening,No,No-Show,,390,
+APT01159,PAT0592,2026-03-25,Pediatrics,New,Afternoon,Yes,Cancelled,,550,
+APT01159,PAT0592,2026-03-25,Pediatrics,New,Afternoon,Yes,Cancelled,,550,

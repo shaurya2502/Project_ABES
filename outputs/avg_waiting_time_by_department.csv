@@ -1,0 +1,9 @@
+Department,Attended_Appointments,Avg_Wait_Min,Max_Wait_Min
+Cardiology,150,38.13,146.0
+Orthopedics,146,34.92,98.0
+Gynecology,138,28.64,116.0
+General Medicine,311,28.24,152.0
+Ophthalmology,105,25.62,151.0
+ENT,117,24.09,139.0
+Pediatrics,154,23.49,158.0
+Dermatology,117,17.63,35.0

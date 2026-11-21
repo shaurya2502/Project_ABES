@@ -1,0 +1,3 @@
+Appointment_Type,Count,Avg_Wait,Median_Wait,Max_Wait
+Follow-up,712,25.33,22.5,158.0
+New,526,31.76,29.0,152.0
